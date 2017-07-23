@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
+# The Situation of the Robot and the Dancer
 
-You can use the [editor on GitHub](https://github.com/amycartwright/FinalMAProjectGold/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+'Before I go out on the stage, I must place a motor in my soul. When that begins to work my legs and arms and my whole body will move independantly of my will. But if I do not get time to put that motor in my soul, I cannot dance' (Isadora Duncan 1995)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in exploring the relationships between human and non-human performers in live dance performance. Is it possible for a non-anthropomorphic mechanical object to portray a real performable relationship within live performance. 
 
-### Markdown
+This project will play on the human tendancy to add human characteristics to non-human objects. Using this tendancy to explore the possibility of a non-human dance performer. This project is the first stages of a wider exploration into dance performance and Artificial Intelligence. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Important things to address
 
-```markdown
-Syntax highlighted code block
+#### Timeline
+#### Building Object
+  - Designing Structure
+  - Ordering Parts
+    - Acrylic
+    - Plynth
+    - Servos
+    - Screws
+    - PowerSupply
+    - Conductive thread
+#### Inputs
 
-# Header 1
-## Header 2
-### Header 3
+1. Kinect
+Data path - Kinect --> OFW --> Arduino --> Servo
+Would need to convert from depth data to x, y and z coordinates
+Have a play with processing --> Kinect1 examples, println data and see if can be sent across efficiently to arduino library
+Also think abuout Kinect in OpenFrameworks can I replicate the processing example? getWorldCoordinate() gives co-ordinates for depth point
 
-- Bulleted
-- List
+2. Accelorometer
+Data path - Accelorometer --> Arduino --> Servo
+Nice example code comes with arduion library, in the Inverse Kinematics example would need to edit goToPoint(from accelorometer)
+How do I get the data to Arduino wirelessly? 
 
-1. Numbered
-2. List
+![FloraSetupFront](src) ![FloraSetupBack](src)
 
-**Bold** and _Italic_ and `Code` text
+#### Testing
+#### Choreography
+#### Stage Design/Exhinition Presentation
+![Stage](src)
+#### Costume Design
+![Costume](src)
+#### Research
+Sita Papat - connection between operator and performer
 
-[Link](url) and ![Image](src)
-```
+#### Inventory
+[Zimoun](https://vimeo.com/7235817)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Can Robots Dance](https://creators.vice.com/en_uk/article/d74zey/can-robots-dance)
 
-### Jekyll Themes
+[Pinokio](http://www.ben-dror.com/pinokio)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amycartwright/FinalMAProjectGold/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Fabricating Performance](http://robohub.org/the-relationship-between-dance-and-robotic-fabrication-with-video/)
 
-### Support or Contact
+[Alexander McQueen](https://www.youtube.com/watch?v=VnA3XR5apQg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Madeline the Robot Tamer & Mimus](https://vimeo.com/191963552)
+
+
+#### Bibliography
+
+Dance Notations and Robot Motion
+
+Computers as Theatre
+
+**DeLahunta Scott** Dance Becoming Knowledge 
+
+**DeLahunta Scott** Choreographic Ideas – Discourse from Practice
+
+The choreographic-language-agent
+
+Choreographic Resources Agents
+
+A Conversation about choreographic thinking tools
+
+Performance and Technology: Practices of Virtual Embodiment and Interactivity
+
+Entangled: Technology and the Transformation of Performance
+
+The philosophy of artificial intelligence
+
+Transmission in Motion
+
+The Improvisation Game
+
+Media & Performance – Along the border
+
+Performative Installation
+
+Performance and Technology
+
+Digital Practices – Aesthetic and Neuroesthetic Approaches to Performance and Technology
+
+Performance, Technology and Science
+
+Entangled – Technology and the transformation or performance
+
+Digital Movement
+
+**Popat, S. & Preece, K. (2012)** `Pluralistic Presence: Practising Embodiment with my Avatar', in Broadhurst S. & Machon J. (eds.) Identity, Performance and Technology: Practices of Empowerment, Embodiment and Technicity, Basingstoke: Palgrave Macmillan, pp.160-174
+
+**Popat, S. & Palmer, S. (2009)** `Dancing with Sprites and Robots: New Approaches to Collaboration between Dance and Digital Technologies', in Butterworth, J. & Wildschut, L. (eds.) Contemporary Choreography: A Critical Reader, London: Routledge, pp.416-430
+
+**Popat, S. & Palmer, S. (2008)** 'Embodied Interfaces: Dancing with Digital Sprites', Digital Creativity 19(2), pp.125-137. DOI 10.1080/14626260802037478
