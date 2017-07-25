@@ -1,10 +1,10 @@
 # The Situation of the Robot and the Dancer
 
-'Before I go out on the stage, I must place a motor in my soul. When that begins to work my legs and arms and my whole body will move independantly of my will. But if I do not get time to put that motor in my soul, I cannot dance' (Isadora Duncan 1995)
+'Before I go out on the stage, I must place a motor in my soul. When that begins to work my legs and arms and my whole body will move independently of my will. But if I do not get time to put that motor in my soul, I cannot dance' (Isadora Duncan 1995)
 
-I am interested in exploring the relationships between human and non-human performers in live dance performance. Is it possible for a non-anthropomorphic mechanical object to portray a real performable relationship within live performance. 
+I am interested in exploring the relationships between human and non-human performers in live dance performance. Is it possible for a non-anthropomorphic mechanical object to portray a real performable relationship within live performance.
 
-This project will play on the human tendancy to add human characteristics to non-human objects. Using this tendancy to explore the possibility of a non-human dance performer. This project is the first stages of a wider exploration into dance performance and Artificial Intelligence. 
+This project will play on the human tendency to add human characteristics to non-human objects. Using this tendency to explore the possibility of a non-human dance performer. This project is the first stages of a wider exploration into dance performance and Artificial Intelligence.
 
 ### Important things to address
 
@@ -13,7 +13,7 @@ This project will play on the human tendancy to add human characteristics to non
   - Designing Structure
   - Ordering Parts
     - Acrylic
-    - Plynth
+    - Plinth
     - Servos
     - Screws
     - PowerSupply
@@ -23,19 +23,19 @@ This project will play on the human tendancy to add human characteristics to non
 1. Kinect
 Data path - Kinect --> OFW --> Arduino --> Servo
 Would need to convert from depth data to x, y and z coordinates
-Have a play with processing --> Kinect1 examples, println data and see if can be sent across efficiently to arduino library
-Also think abuout Kinect in OpenFrameworks can I replicate the processing example? getWorldCoordinate() gives co-ordinates for depth point
+Have a play with processing --> Kinect1 examples, println data and see if can be sent across efficiently to Arduino library
+Also think about Kinect in OpenFrameworks can I replicate the processing example? getWorldCoordinate() gives co-ordinates for depth point
 
-2. Accelorometer
-Data path - Accelorometer --> Arduino --> Servo
-Nice example code comes with arduion library, in the Inverse Kinematics example would need to edit goToPoint(from accelorometer)
-How do I get the data to Arduino wirelessly? 
+2. Accelerometer
+Data path - Accelerometer --> Arduino --> Servo
+Nice example code comes with Arduino library, in the Inverse Kinematics example would need to edit goToPoint(from accelerometer)
+How do I get the data to Arduino wirelessly?
 
-![FloraSetupFront](src) ![FloraSetupBack](src)
+![FloraSetupFront](img/FloraFrontSetup.jpg) ![FloraSetupBack](src)
 
 #### Testing
 #### Choreography
-#### Stage Design/Exhinition Presentation
+#### Stage Design/Exhibition Presentation
 ![Stage](src)
 #### Costume Design
 ![Costume](src)
@@ -62,7 +62,7 @@ Dance Notations and Robot Motion
 
 Computers as Theatre
 
-**DeLahunta Scott** Dance Becoming Knowledge 
+**DeLahunta Scott** Dance Becoming Knowledge
 
 **DeLahunta Scott** Choreographic Ideas – Discourse from Practice
 
