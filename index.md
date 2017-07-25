@@ -31,14 +31,15 @@ Data path - Accelerometer --> Arduino --> Servo
 Nice example code comes with Arduino library, in the Inverse Kinematics example would need to edit goToPoint(from accelerometer)
 How do I get the data to Arduino wirelessly?
 
-![FloraSetupFront](img/FloraFrontSetup.jpg) ![FloraSetupBack](src)
+![FloraSetupFront](img/FloraFrontSetup.jpg) ![FloraSetupBack](img/FloraBackSetup.jpg)
 
 #### Testing
+![Sample Accelerometer Data](img/DataFromAccelorometer.jpg)
 #### Choreography
 #### Stage Design/Exhibition Presentation
-![Stage](src)
+![Stage](img/StageDesign.jpg)
 #### Costume Design
-![Costume](src)
+![Costume](img/CostumeIdea.jpg)
 #### Research
 Sita Papat - connection between operator and performer
 
