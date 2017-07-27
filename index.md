@@ -35,6 +35,13 @@ How do I get the data to Arduino wirelessly?
 
 #### Testing
 ![Sample Accelerometer Data](img/DataFromAccelorometer.jpg)
+
+-Kinect depth transferred into real world coordinates
+-Optical flow
+-Colour tracking combined with background extraction for accuracy (only gives x, y coordinates. How can I get the z?)
+-CV
+
+
 #### Choreography
 #### Stage Design/Exhibition Presentation
 ![Stage](img/StageDesign.jpg)
