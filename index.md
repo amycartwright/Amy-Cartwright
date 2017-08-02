@@ -18,7 +18,21 @@ This project will play on the human tendency to add human characteristics to non
     - Screws
     - PowerSupply
     - Conductive thread
-#### Inputs
+
+![CardboardPrototype](gifs/CardboardPrototype.gif) 
+
+#### Practice as Research
+
+It is important for me to take a practice as research approach to this project as this is how I have always worked in my own choreographic practice.
+First steps working with a genetic algorithm I hoped to replicate the thought processes of a human dancer. The logic of GA's is very similar to that of an improvising dancer and I wanted to exploit this and to create data that could be used to manipulate my robotic arm.
+What happened? I spent roughly one month implementing a trial algorithm that I could use as a proof of concept. You can see the results of that in this very short video here. The code can be viewed on this projects Github repository.
+
+add video link
+
+As you can see there is a huge amount of data (represented as points) when thinking abut mapping this data to the arm I would have to map it to movements of a much, much smaller range. This is problematic as the data would effectively become randomized eliminating the need for the algorithm.
+Conclusion. I considered keeping the algorithm in place as I was particularly drawn to it conceptually however when thinking about audience reception I realized that the audience would not be able to see any connection between the human dancer and the arm. Without this connection I feel that it will be difficult for the audience to engage and so I decided that it was time to pursue a different approach.
+
+
 
 1. Kinect
 Data path - Kinect --> OFW --> Arduino --> Servo
@@ -109,3 +123,5 @@ Digital Movement
 **Popat, S. & Palmer, S. (2009)** `Dancing with Sprites and Robots: New Approaches to Collaboration between Dance and Digital Technologies', in Butterworth, J. & Wildschut, L. (eds.) Contemporary Choreography: A Critical Reader, London: Routledge, pp.416-430
 
 **Popat, S. & Palmer, S. (2008)** 'Embodied Interfaces: Dancing with Digital Sprites', Digital Creativity 19(2), pp.125-137. DOI 10.1080/14626260802037478
+
+https://www.youtube.com/watch?v=xDh4CMZVzvg
