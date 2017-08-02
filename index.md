@@ -8,9 +8,15 @@ This project will play on the human tendency to add human characteristics to non
 
 ### Important things to address
 
-#### Timeline
+
 #### Building Object
+
   - Designing Structure
+The original design for the robotic arm structure came from the [MeArm](https://mime.co.uk/products/mearm/) and the first prototype that you see in this documentation (blue) is the exact original design. I didn't want to use just one arm and I felt strongly that it should be an odd number so as not to mimic the design of the human body. The final number settled on is three.
+
+Insert Image here of layout
+
+
   - Ordering Parts
     - Acrylic
     - Plinth
@@ -21,7 +27,7 @@ This project will play on the human tendency to add human characteristics to non
 
 ![CardboardPrototype](gifs/CardboardPrototype.gif)
 
-#### Practice as Research
+#### Practice Based Research
 
 It is important for me to take a practice as research approach to this project as this is how I have always worked in my own choreographic practice.
 First steps working with a genetic algorithm I hoped to replicate the thought processes of a human dancer. The logic of GA's is very similar to that of an improvising dancer and I wanted to exploit this and to create data that could be used to manipulate my robotic arm.
@@ -31,7 +37,6 @@ What happened? I spent roughly one month implementing a trial algorithm that I c
 
 As you can see there is a huge amount of data (represented as points) when thinking abut mapping this data to the arm I would have to map it to movements of a much, much smaller range. This is problematic as the data would effectively become randomized eliminating the need for the algorithm.
 Conclusion. I considered keeping the algorithm in place as I was particularly drawn to it conceptually however when thinking about audience reception I realized that the audience would not be able to see any connection between the human dancer and the arm. Without this connection I feel that it will be difficult for the audience to engage and so I decided that it was time to pursue a different approach.
-
 
 
 1. Kinect
@@ -48,6 +53,7 @@ How do I get the data to Arduino wirelessly?
 ![FloraSetupFront](img/FloraFrontSetup.jpg) ![FloraSetupBack](img/FloraBackSetup.jpg)
 
 #### Testing
+
 ![Sample Accelerometer Data](img/DataFromAccelorometer.jpg)
 
 -Kinect depth transferred into real world coordinates
@@ -61,14 +67,29 @@ How do I get the data to Arduino wirelessly?
 
 
 #### Choreography
+
+
 #### Stage Design/Exhibition Presentation
-![Stage](img/StageDesign.jpg)
+
+![Initial Sketch](img/StageDesign.jpg)
+
+![Empty Space](img/SpaceEmpty.jpg)
+
+
 #### Costume Design
+
 ![Costume](img/CostumeIdea.jpg)
-#### Research
+
+#### Conceptual/Theoretical Research
+
+Need to copy over from handwritten notes
+
 Sita Papat - connection between operator and performer
 
 #### Inventory
+
+This inventory contains links to art works, design, ideas, and anything else that has been of significant influence for the creation of this piece.
+
 [Zimoun](https://vimeo.com/7235817)
 
 [Can Robots Dance](https://creators.vice.com/en_uk/article/d74zey/can-robots-dance)
