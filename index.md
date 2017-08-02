@@ -19,7 +19,7 @@ This project will play on the human tendency to add human characteristics to non
     - PowerSupply
     - Conductive thread
 
-![CardboardPrototype](gifs/CardboardPrototype.gif) 
+![CardboardPrototype](gifs/CardboardPrototype.gif)
 
 #### Practice as Research
 
@@ -54,6 +54,10 @@ How do I get the data to Arduino wirelessly?
 -Optical flow
 -Colour tracking combined with background extraction for accuracy (only gives x, y coordinates. How can I get the z?)
 -CV
+
+![FirstSucess:Failure](gifs/FirstSucessFailure.gif)
+
+![ActualFirstSucess](gifs/ActualFirstSucess.gif)
 
 
 #### Choreography
