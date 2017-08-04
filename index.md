@@ -14,20 +14,29 @@ This project will play on the human tendency to add human characteristics to non
   - Designing Structure
 The original design for the robotic arm structure came from the [MeArm](https://mime.co.uk/products/mearm/) and the first prototype that you see in this documentation (blue) is the exact original design. I didn't want to use just one arm and I felt strongly that it should be an odd number so as not to mimic the design of the human body. The final number settled on is three.
 
-Insert Image here of layout
+![Layout](img/Layout.jpg)
 
-
-  - Ordering Parts
     - Acrylic
+
+White
+
     - Plinth
     - Servos
-Useful forum thread with information about powering servos through mains/battery opposed to running through Arduno
-[Instructables - Using Arduino and 8 servos!? What type of power source?](http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/)
-http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/
 
-    - Screws
+4x MG995
+8x MG90S
+
+    - Microcontroller
+
+Arduino Mega 2560
+
     - PowerSupply
-    - Conductive thread
+
+    Useful forum thread with information about powering servos through mains/battery opposed to running through Arduno
+    [Instructables - Using Arduino and 8 servos!? What type of power source?](http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/)
+    http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/
+
+
 
 ![CardboardPrototype](gifs/CardboardPrototype.gif)
 
