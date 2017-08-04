@@ -162,4 +162,9 @@ Digital Movement
 
 **Popat, S. & Palmer, S. (2008)** 'Embodied Interfaces: Dancing with Digital Sprites', Digital Creativity 19(2), pp.125-137. DOI 10.1080/14626260802037478
 
-https://www.youtube.com/watch?v=xDh4CMZVzvg
+
+[Sita Popat](https://www.youtube.com/watch?v=xDh4CMZVzvg)
+
+http://roboticart.org/
+
+[Robots and Art](http://roboticart.org/)
