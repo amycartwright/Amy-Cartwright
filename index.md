@@ -21,6 +21,10 @@ Insert Image here of layout
     - Acrylic
     - Plinth
     - Servos
+Useful forum thread with information about powering servos through mains/battery opposed to running through Arduno
+[Instructables - Using Arduino and 8 servos!? What type of power source?](http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/)
+http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/
+
     - Screws
     - PowerSupply
     - Conductive thread
