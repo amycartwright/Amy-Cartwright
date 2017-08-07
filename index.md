@@ -34,7 +34,7 @@ Arduino Mega 2560
 
     Useful forum thread with information about powering servos through mains/battery opposed to running through Arduno
     [Instructables - Using Arduino and 8 servos!? What type of power source?](http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/)
-    http://www.instructables.com/answers/Using-Arduino-and-8-servos-What-type-of-power-so/
+
 
 
 
@@ -57,6 +57,9 @@ Data path - Kinect --> OFW --> Arduino --> Servo
 Would need to convert from depth data to x, y and z coordinates
 Have a play with processing --> Kinect1 examples, println data and see if can be sent across efficiently to Arduino library
 Also think about Kinect in OpenFrameworks can I replicate the processing example? getWorldCoordinate() gives co-ordinates for depth point
+
+[Nice article about using background subtraction based on color and depth data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3758628/)
+
 
 2. Accelerometer
 Data path - Accelerometer --> Arduino --> Servo
