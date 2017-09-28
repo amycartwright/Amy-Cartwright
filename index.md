@@ -1,4 +1,4 @@
-# The Situation of the Robot and the Dancer
+# Dancers In White Standing
 
 'Before I go out on the stage, I must place a motor in my soul. When that begins to work my legs and arms and my whole body will move independently of my will. But if I do not get time to put that motor in my soul, I cannot dance' (Isadora Duncan 1995)
 
