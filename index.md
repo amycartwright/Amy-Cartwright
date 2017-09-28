@@ -171,3 +171,19 @@ Digital Movement
 http://roboticart.org/
 
 [Robots and Art](http://roboticart.org/)
+
+useful links for serial connection between openframeworks and Arduino
+
+https://www.arduino.cc/en/Reference/ParseInt
+
+http://forum.arduino.cc/index.php?topic=44055.0
+
+https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/ascii.html
+
+http://openframeworks.cc/documentation/communication/ofSerial/#show_writeByte
+
+http://forum.arduino.cc/index.php?topic=44055.0
+
+http://embedded.fm/blog/2017/6/15/sound-of-one-arm-tapping
+
+http://forum.arduino.cc/index.php?topic=44055.0
