@@ -1,10 +1,10 @@
 # Dancers In White Standing
 
-'Before I go out on the stage, I must place a motor in my soul. When that begins to work my legs and arms and my whole body will move independently of my will. But if I do not get time to put that motor in my soul, I cannot dance' (Isadora Duncan 1995)
+A dance performance with both human and non-human performers. This piece explores the possibilities surrounding the involvement of non-human and non-anthropomorphic performers in live dance performance.
 
-I am interested in exploring the relationships between human and non-human performers in live dance performance. Is it possible for a non-anthropomorphic mechanical object to portray a real performable relationship within live performance.
+Bringing a set of three non-anthropomorphic autonoma together with a human dancer, Dancers in White, Standing focuses on the bold new forms of creativity and physical performance that result when art embraces computation and robotics. The otherness of such foreign bodies engaging with one another through dance presents a unique relationship that gives the improvised performance a truly genuine air of exploration. The work takes a firm and practical step toward a new intersection between dance performance and Artificial Intelligence.
 
-This project will play on the human tendency to add human characteristics to non-human objects. Using this tendency to explore the possibility of a non-human dance performer. This project is the first stages of a wider exploration into dance performance and Artificial Intelligence.
+Dancers in White, Standing avoids the anthropocentrism of replicating human motion in the non-human performers by instead using forms of motion that are pre-existing in non-human forms. The fragility and uncertainty of the robotic arm allows for explorations into movements that are markedly different from a human dancer. Responding to its fellow dancers in real-time, the improvised choreography allows each arm to demonstrate its own identity, as both a non-human entity and as a performer.
 
 ### Important things to address
 
@@ -98,9 +98,12 @@ How do I get the data to Arduino wirelessly?
 
 #### Conceptual/Theoretical Research
 
-Need to copy over from handwritten notes
+Dancers In White, Standing is the first practical exploration into what has previously been a largely theoretical research path into Artificial Intelligence (AI) and dance performance. I am Interested in exploring the non-human within dance performance and so decided to focus this project into finding a way to create a dance performance that included non-human performers.
 
-Sita Papat - connection between operator and performer
+A large challenge in creating a non-human performer is the audience. Often live performances rely on the audience’s ability to relate to the human performer and much of this relationship comes from shared sensory experiences. It is therefore natural that humans find it much harder to relate to non-human objects, an experience that is only intensified when the object is also a non-anthropomorphic.
+
+To try and combat this my first instinct was to move away from a screen based performer. I felt that by giving something a physical form that exists in the same physical space as the human performer the audience would be more likely see it as an additional performer as opposed to set or decorative scenery.
+
 
 #### Inventory
 
