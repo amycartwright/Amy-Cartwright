@@ -124,50 +124,37 @@ This inventory contains links to art works, design, ideas, and anything else tha
 
 #### Bibliography
 
-Dance Notations and Robot Motion
+Birringer, J (1998) Media & Performance – Along the border, Baltimore:John Hopkins University Press. Pp. 105-145
+Birringer, J.H. (2008) Performance, Technology, &amp; Science. New York (N.Y.): PAJ Publications
 
-Computers as Theatre
+Bleeker, M. eds (2017) Transmission in Motion, New York: Routledge
+Boden, M.A. (1992) The Philosophy of Artificial Intelligence. New York: Oxford University Press
 
-**DeLahunta Scott** Dance Becoming Knowledge
+Broadhurst, S. (2011) Digital Practices: Aesthetic and Neuroesthetic Approaches to Performance and Technology. Basingstoke: Palgrave Macmillan
 
-**DeLahunta Scott** Choreographic Ideas – Discourse from Practice
+Broadhurst, S. and Machon, J. (2011) Performance and Technology: Practices of Virtual Embodiment and Interactivity. Basingstoke: Palgrave Macmillan
 
-The choreographic-language-agent
+DeLahunta, S and Shaw, N (2008) Choreographic Resources Agents, Archives, Scores and Installations, Performance Research,13:1,131-133
 
-Choreographic Resources Agents
+DeLahunta, S. (2013). Choreographic Ideas – Discourse from Practice, 1st ed., SHARE: Handbook for Artistic Research Education, ELIA: Amsterdam. pp. 170-177
 
-A Conversation about choreographic thinking tools
+Laumond, JP. and Abe, N. (2006). Dance Notations and Robot Motion, Switzerland: Springer
 
-Performance and Technology: Practices of Virtual Embodiment and Interactivity
+Laurel, B. (2014). Computers as Theatre. 2nd ed. Indiana: Pearson Education, Inc.
 
-Entangled: Technology and the Transformation of Performance
+Leach, J. and deLahunta, S. (2015) Dance ‘Becoming’ Knowledge. Leonardo, volume In press.
 
-The philosophy of artificial intelligence
+Nollert, A. (2003) Performative Installation. Cologne: Snoeck
 
-Transmission in Motion
+Popat, S. & Palmer, S. (2008) ‘Embodied Interfaces: Dancing with Digital Sprites’, Digital Creativity 19(2), pp.125-137. DOI 10.1080/14626260802037478
 
-The Improvisation Game
+Popat, S. & Palmer, S. (2009) `Dancing with Sprites and Robots: New Approaches to Collaboration between Dance and Digital Technologies’, in Butterworth, J. & Wildschut, L. (eds.) Contemporary Choreography: A Critical Reader, London: Routledge, pp.416-430
 
-Media & Performance – Along the border
+Popat, S. & Preece, K. (2012) ‘Pluralistic Presence: Practising Embodiment with my Avatar’, in Broadhurst S. & Machon J. (eds.) Identity, Performance and Technology: Practices of Empowerment, Embodiment and Technicity, Basingstoke: Palgrave Macmillan, pp.160-174
 
-Performative Installation
+Salter, C (2010) Entangled: Technology and the Transformation of Performance. Massachusetts: MIT Press. Pp. 221-349
 
-Performance and Technology
-
-Digital Practices – Aesthetic and Neuroesthetic Approaches to Performance and Technology
-
-Performance, Technology and Science
-
-Entangled – Technology and the transformation or performance
-
-Digital Movement
-
-**Popat, S. & Preece, K. (2012)** `Pluralistic Presence: Practising Embodiment with my Avatar', in Broadhurst S. & Machon J. (eds.) Identity, Performance and Technology: Practices of Empowerment, Embodiment and Technicity, Basingstoke: Palgrave Macmillan, pp.160-174
-
-**Popat, S. & Palmer, S. (2009)** `Dancing with Sprites and Robots: New Approaches to Collaboration between Dance and Digital Technologies', in Butterworth, J. & Wildschut, L. (eds.) Contemporary Choreography: A Critical Reader, London: Routledge, pp.416-430
-
-**Popat, S. & Palmer, S. (2008)** 'Embodied Interfaces: Dancing with Digital Sprites', Digital Creativity 19(2), pp.125-137. DOI 10.1080/14626260802037478
-
+#### Other
 
 [Sita Popat](https://www.youtube.com/watch?v=xDh4CMZVzvg)
 
