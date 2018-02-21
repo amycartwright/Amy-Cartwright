@@ -16,6 +16,10 @@ an online tutorial that could be used for teaching in the years to come... that'
 [Writing Task](V&AResidency/writingTask.md)
 
 
+### Early Experiments
+
+[![Video](http://img.youtube.com/vi/E1WnEYtShpk/0.jpg)](http://www.youtube.com/watch?v=E1WnEYtShpk)
+
 
 
 ### Creative soup
