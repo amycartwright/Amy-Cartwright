@@ -34,3 +34,6 @@ And all the questionmarks started to sing
 [![Video](http://img.youtube.com/vi/FYR2HY553y8/0.jpg)](http://www.youtube.com/watch?v=FYR2HY553y8)
 
 Next time to meet as a group - make a presentation. powerpoint. shows off projects. Like a kickstarter. or applying for funding. What you have now and what you plan on having. 
+
+What its like to be a robot: 
+https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?ref=hvper.com
