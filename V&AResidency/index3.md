@@ -15,6 +15,7 @@ Deliverable's
 [![Video](http://img.youtube.com/vi/E1WnEYtShpk/0.jpg)](http://www.youtube.com/watch?v=E1WnEYtShpk)
 
 I am attracted o the motion of a piston as the extension it shows is not something that we see when observing movement in the human body. This is a level of extraction that I wanted to exlore. Is it too abstract? Does it still allow the audienct to look at it as a perofrmer or is the familiarity of type of movement essential? 
+
 These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include contructing a more solid physical form using aliminium tubing and 3D printing. I will then work on the software. Introduncting CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
 
 ### Feedback sessions
