@@ -42,7 +42,7 @@ Arduino Mega 2560
 
 
 
-![CardboardPrototype](gifs/CardboardPrototype.gif)
+![CardboardPrototype](https://github.com/amycartwright/Amy-Cartwright/blob/master/gifs/CardboardPrototype.gif)
 
 #### Practice Based Research
 
@@ -50,7 +50,7 @@ It is important for me to take a practice as research approach to this project a
 First steps working with a genetic algorithm I hoped to replicate the thought processes of a human dancer. The logic of GA's is very similar to that of an improvising dancer and I wanted to exploit this and to create data that could be used to manipulate my robotic arm.
 What happened? I spent roughly one month implementing a trial algorithm that I could use as a proof of concept. You can see the results of that in this very short video here. The code can be viewed on this projects Github repository.
 
-![GADataVisResults](gifs/GADataVisResults.gif)
+![GADataVisResults](https://github.com/amycartwright/Amy-Cartwright/blob/master/gifs/GADataVisResults.gif)
 
 As you can see there is a huge amount of data (represented as points) when thinking abut mapping this data to the arm I would have to map it to movements of a much, much smaller range. This is problematic as the data would effectively become randomized eliminating the need for the algorithm.
 Conclusion. I considered keeping the algorithm in place as I was particularly drawn to it conceptually however when thinking about audience reception I realized that the audience would not be able to see any connection between the human dancer and the arm. Without this connection I feel that it will be difficult for the audience to engage and so I decided that it was time to pursue a different approach.
@@ -70,20 +70,20 @@ Data path - Accelerometer --> Arduino --> Servo
 Nice example code comes with Arduino library, in the Inverse Kinematics example would need to edit goToPoint(from accelerometer)
 How do I get the data to Arduino wirelessly?
 
-![FloraSetupFront](img/FloraFrontSetup.jpg) ![FloraSetupBack](img/FloraBackSetup.jpg)
+![FloraSetupFront](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/FloraFrontSetup.jpg) ![FloraSetupBack](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/FloraBackSetup.jpg)
 
 #### Testing
 
-![Sample Accelerometer Data](img/DataFromAccelorometer.jpg)
+![Sample Accelerometer Data](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/DataFromAccelorometer.jpg)
 
 -Kinect depth transferred into real world coordinates
 -Optical flow
 -Colour tracking combined with background extraction for accuracy (only gives x, y coordinates. How can I get the z?)
 -CV
 
-![FirstSucess:Failure](gifs/FirstSucessFailure.gif)
+![FirstSucess:Failure](https://github.com/amycartwright/Amy-Cartwright/blob/master/gifs/FirstSucessFailure.gif)
 
-![ActualFirstSucess](gifs/ActualFirstSucess.gif)
+![ActualFirstSucess](https://github.com/amycartwright/Amy-Cartwright/blob/master/gifs/ActualFirstSucess.gif)
 
 
 #### Choreography
@@ -91,14 +91,14 @@ How do I get the data to Arduino wirelessly?
 
 #### Stage Design/Exhibition Presentation
 
-![Initial Sketch](img/StageDesign.jpg)
+![Initial Sketch](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/StageDesign.jpg)
 
-![Empty Space](img/SpaceEmpty.jpg)
+![Empty Space](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/SpaceEmpty.jpg)
 
 
 #### Costume Design
 
-![Costume](img/CostumeIdea.jpg)
+![Costume](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/CostumeIdea.jpg)
 
 #### Conceptual/Theoretical Research
 
@@ -152,7 +152,7 @@ Nollert, A. (2003) Performative Installation. Cologne: Snoeck
 
 Popat, S. & Palmer, S. (2008) ‘Embodied Interfaces: Dancing with Digital Sprites’, Digital Creativity 19(2), pp.125-137. DOI 10.1080/14626260802037478
 
-Popat, S. & Palmer, S. (2009) `Dancing with Sprites and Robots: New Approaches to Collaboration between Dance and Digital Technologies’, in Butterworth, J. & Wildschut, L. (eds.) Contemporary Choreography: A Critical Reader, London: Routledge, pp.416-430
+Popat, S. & Palmer, S. (2009) 'Dancing with Sprites and Robots: New Approaches to Collaboration between Dance and Digital Technologies’, in Butterworth, J. & Wildschut, L. (eds.) Contemporary Choreography: A Critical Reader, London: Routledge, pp.416-430
 
 Popat, S. & Preece, K. (2012) ‘Pluralistic Presence: Practising Embodiment with my Avatar’, in Broadhurst S. & Machon J. (eds.) Identity, Performance and Technology: Practices of Empowerment, Embodiment and Technicity, Basingstoke: Palgrave Macmillan, pp.160-174
 
