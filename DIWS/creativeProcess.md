@@ -24,7 +24,7 @@ Cardboard Prototype:
 
 Schematic:
 
-![Layout](img/Schematic.jpg)
+![Layout](img/Schematic.png)
 
 Three Arms Together:
 
