@@ -18,7 +18,7 @@ Dancers in White, Standing avoids the anthropocentrism of replicating human moti
   - Designing Structure
 The original design for the robotic arm structure came from the [MeArm](https://mime.co.uk/products/mearm/) and the first prototype that you see in this documentation (blue) is the exact original design. I didn't want to use just one arm and I felt strongly that it should be an odd number so as not to mimic the design of the human body. The final number settled on is three.
 
-![Layout](img/Layout.jpg)
+![Layout](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/Layout.jpg)
 
     - Acrylic
 
