@@ -9,4 +9,4 @@ Deliverable's
  * an online tutorial that could be used for teaching in the years to come... that's your legacy. If you made robots...  then a step-by-step tutorial hosted on gitlab perhaps (TBC) showing how to make these DYI robots you made. This was konstantin's idea and I think it's great.
 
 
-[Creative Process](https://github.com/amycartwright/Amy-Cartwright/blob/master/V%26AResidency/creativeProcess.md) 
+[Creative Process](V&AResidency/creativeProcess.md) 
