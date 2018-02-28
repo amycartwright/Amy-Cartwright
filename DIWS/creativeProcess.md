@@ -22,9 +22,18 @@ Cardboard Prototype:
 
 ![CardboardPrototype](img/CardboardPrototype.gif)
 
+Schematic:
+
+![Layout](img/Schematic.jpg)
+
 Three Arms Together:
 
 ![Layout](img/Layout.jpg)
+
+Final Layout:
+
+![Layout](img/finalPrototype.jpg)
+
 
 #### Equiptment Used
 
