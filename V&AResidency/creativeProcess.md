@@ -25,7 +25,7 @@ Preliminary thoughts - notes in image below taken by tutor
 _24/02/18_
 How to use blogging and writing to accompany your artistic practice
 
-[Writing Task](https://github.com/amycartwright/Amy-Cartwright/blob/master/V%26AResidency/writingTask.md)
+[Writing Task](writingTask.md)
 
 _07/02/18_
 Brief notes detailing discussions
