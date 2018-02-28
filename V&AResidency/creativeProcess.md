@@ -41,6 +41,15 @@ Why is it soimportant to me to use computer vision to control my prototypes? Exp
 
 ### Resources
 
+[Erwin Wurm] (http://www.erwinwurm.at/artworks.html)
+
+[Cyrus Kabiru] (https://smacgallery.com/artist/cyrus-kabiru-2/) 
+
+[Oscar Schlemmers Ballet of Geometry] (https://www.theguardian.com/artanddesign/gallery/2016/nov/24/oskar-schlemmers-ballet-of-geometry-in-pictures) 
+
+[Open Ended Group - work with choreography and code] (http://openendedgroup.com/index.html)
+
+[Marc Downie Thesis - Choreographing the Extended Agent: performance graphics for dance theater] (http://openendedgroup.com/writings/downieThesis.html)
 
 [![And all the questionmarks started to sing](http://img.youtube.com/vi/FYR2HY553y8/0.jpg)](http://www.youtube.com/watch?v=FYR2HY553y8)
 
@@ -59,4 +68,11 @@ Why is it soimportant to me to use computer vision to control my prototypes? Exp
 [Neural Magazine](http://neural.it/)
 
 [Eric Min Hcuong Castaing](http://shonen.info/) 
+
+[Motion House Charge] (https://charge.motionhouse.co.uk/)
+
+
+
+
+
 
