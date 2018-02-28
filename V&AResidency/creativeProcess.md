@@ -13,14 +13,13 @@ These questions are difficult to answer at this stage but I think are worth furt
 _10/01/18_
 First session rough notes following discussion with tutor and peers
 
-![Notes](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/100118Notes.jpg)
-![Notes](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/100118Notes1.jpg)
-
+![Notes](img/100118Notes.jpg)
+![Notes](img/100118Notes1.jpg)
 
 _17/01/18_
 Preliminary thoughts - notes in image below taken by tutor
 
-![Notes](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/170118Notes.jpg)
+![Notes](img/170118Notes.jpg)
 
 _24/02/18_
 How to use blogging and writing to accompany your artistic practice
@@ -30,12 +29,12 @@ How to use blogging and writing to accompany your artistic practice
 _07/02/18_
 Brief notes detailing discussions
 
-![Notes](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/070218Notes.jpg)
+![Notes](img/070218Notes.jpg)
 
 _21/02/18_
 Specific details - notes in image below taken by tutor
 
-![Notes](https://github.com/amycartwright/Amy-Cartwright/blob/master/img/210218Notes.jpg)
+![Notes](img/210218Notes.jpg)
 
 Why is it soimportant to me to use computer vision to control my prototypes? Explore the gap between using something like a potentiometer and computer vision. There is a difference. What is it? How can you show this? How can you demonstrate this? Open the crack wider. Exploring agency, when i use cv there is another person in the room with me. I can experiment ans find out what works what doesnt, what is suprising. the agency coming from the physical can be faked. Fine line - sit just below it. The software can fill any gaps in agency - So how the robot respons to the human. 
 
