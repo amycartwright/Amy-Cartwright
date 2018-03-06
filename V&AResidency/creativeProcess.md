@@ -55,6 +55,12 @@ Why is it soimportant to me to use computer vision to control my prototypes? Exp
 [Kinetic predictors of spectators’ segmentation of a live dance
  performance] (http://moco17.movementcomputing.org/wp-content/uploads/2017/12/poster2-Forger.pdf)
 
+[Algorythmic Reflections of Choreography] (http://humantechnology.jyu.fi/archive/vol-12/issue-2/algorithmic-reflections-on-choreography/@@display-file/fullPaper/Ventura_Bisig.pdf)
+
+[Leveraging morphological computation for expressive movement
+ generation in a soft robotic artwork] (http://delivery.acm.org/10.1145/3080000/3078029/a20-jorgensen.pdf?ip=86.172.150.17&id=3078029&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520368645_adca975fea6ea08a8063c36dfeda5a6e)
+
+
 ### Resources
 
 [Erwin Wurm] (http://www.erwinwurm.at/artworks.html)
@@ -86,6 +92,17 @@ Why is it soimportant to me to use computer vision to control my prototypes? Exp
 [Eric Min Hcuong Castaing](http://shonen.info/) 
 
 [Motion House Charge] (https://charge.motionhouse.co.uk/)
+
+[Merging Dance, Rootics and AI] (http://this.deakin.edu.au/innovation/one-creative-team-merging-dance-robotics-and-ai) 
+[Pinoke] (http://motionlab.deakin.edu.au/portfolio/thepinokeproject/?_ga=2.52499240.1815394856.1520368039-1585838154.1520368039)
+
+
+### People to talk to 
+
+* Guido Orgs
+* Toby Beasley
+* Eric Min Hcong Castaing
+
 
 
 
