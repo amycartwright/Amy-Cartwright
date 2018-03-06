@@ -2,11 +2,14 @@
 
 ### Early Experiments
 
+Cardboard prototype of a very simple [Electromechanical Actuator] (https://www.mbtmag.com/article/2012/05/hydraulic-vs-electromechanical-actuators)
+
 [![Video](http://img.youtube.com/vi/E1WnEYtShpk/0.jpg)](http://www.youtube.com/watch?v=E1WnEYtShpk)
 
-I am attracted o the motion of a piston as the extension it shows is not something that we see when observing movement in the human body. This is a level of extraction that I wanted to exlore. Is it too abstract? Does it still allow the audienct to look at it as a perofrmer or is the familiarity of type of movement essential? 
 
-These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include contructing a more solid physical form using aliminium tubing and 3D printing. I will then work on the software. Introduncting CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
+I am attracted to the motion of [linear actuators] (https://en.wikipedia.org/wiki/Linear_actuator), as the motion of extension they have is not something that we see when observing movement in the human body. When we talk about movement and choreography we often reffer to expanding the body into the space around us. A linear actuator physically expands into the space. Making a simple prototype of this type of movement will allow me to explore the posibilities around using this type of mechanical  movement in performance. Is it too abstract? Is there still allowance for the audience to look at it as a perofrmer or is a familiarity of movement essential? Do we need to be able to relate to the motion of the mechanical performer in order for us to view it as a performer. 
+
+These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include contructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introduncting CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
 
 ### Feedback sessions
 
@@ -38,6 +41,19 @@ Specific details - notes in image below taken by tutor
 
 Why is it soimportant to me to use computer vision to control my prototypes? Explore the gap between using something like a potentiometer and computer vision. There is a difference. What is it? How can you show this? How can you demonstrate this? Open the crack wider. Exploring agency, when i use cv there is another person in the room with me. I can experiment ans find out what works what doesnt, what is suprising. the agency coming from the physical can be faked. Fine line - sit just below it. The software can fill any gaps in agency - So how the robot respons to the human. 
 
+### Reading 
+
+[Movement Matters: How a Robot Becomes Body] (http://delivery.acm.org/10.1145/3080000/3078035/a8-gemeinboeck.pdf?ip=158.223.165.48&id=3078035&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520335565_d4833361ae449f68b58db8b9cc764783)
+
+[Capturing and Documenting Creative Processes in
+ Contemporary Dance] (http://delivery.acm.org/10.1145/3080000/3078041/a7-ribeiro.pdf?ip=158.223.165.48&id=3078041&acc=OA&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E636B648B25476672&__acm__=1520336034_62d61ada870fde8b47518fe244021c82)
+
+[The Delay Mirror: a Technical Innovation Specific to the Dance Studio] (http://delivery.acm.org/10.1145/3080000/3078033/a9-molina-tanco.pdf?ip=158.223.165.48&id=3078033&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520336095_2c86d3a511880a43fbde45cd3c2c0d18)
+
+[Sentimental Soft Robotics as Companion Artefacts] (http://moco17.movementcomputing.org/wp-content/uploads/2017/12/ds9-zheng.pdf)
+
+[Kinetic predictors of spectators’ segmentation of a live dance
+ performance] (http://moco17.movementcomputing.org/wp-content/uploads/2017/12/poster2-Forger.pdf)
 
 ### Resources
 
@@ -70,6 +86,8 @@ Why is it soimportant to me to use computer vision to control my prototypes? Exp
 [Eric Min Hcuong Castaing](http://shonen.info/) 
 
 [Motion House Charge] (https://charge.motionhouse.co.uk/)
+
+
 
 
 
