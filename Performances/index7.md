@@ -9,7 +9,7 @@ Choreographer: Bahar Fattahi
 
 Performers: Amy Cartwright, Erica Moshman
 
-[![Video](http://img.youtube.com/vi/https://youtu.be/FgLCWZXyjII/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/FgLCWZXyjII)
+[![Video](http://img.youtube.com/vi/FgLCWZXyjII/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/FgLCWZXyjII)
 
 
 ### 'Improv' (2016)
