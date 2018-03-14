@@ -38,6 +38,8 @@ Creater: [Friendred](http://friendred.me/)
 
 Performer: Amy Cartwright
 
+
+
 <iframe src="https://player.vimeo.com/video/213000785" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/213000785">SHADER</a> from <a href="https://vimeo.com/user41998022">Friendred</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
@@ -59,6 +61,8 @@ Interaction Designer: [Betty Zhang](https://www.bettyzhangart.com/)
 Costume Designer: [Hana Zeqa](http://hanazeqa.com/)
 
 Performer: Amy Cartwright
+
+[![Video](http://img.vimeo.com/vi/243817462/0.jpg)](https://vimeo.com/243817462)
 
 <iframe src="https://player.vimeo.com/video/243817462" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/243817462">The Extimacy Dress</a> from <a href="https://vimeo.com/user61368525">Betty Zhang</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
