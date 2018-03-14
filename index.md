@@ -9,6 +9,9 @@
 [V&A / Goldsmiths Residency](V&AResidency/index3.md)
 
 
+[Triangulation Situation](TriangulationSituation/index6.md)
+
+
 [In Between](InBetween/index5.md)
 
 

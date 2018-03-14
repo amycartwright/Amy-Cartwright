@@ -6,5 +6,7 @@ This piece was made for [Quorum](http://jklcollective.org/quorum/) an internatio
 
 [![Video](http://img.youtube.com/vi/tY06tUZRk-E.jpg)](http://www.youtube.com/watch?v=tY06tUZRk-E)
 
+[![Video](http://img.youtube.com/vi/SO51kJOUYJg/0.jpg)](http://www.youtube.com/watch?v=SO51kJOUYJg)
+
 
 [Creative Process](creativeProcess.md) 
