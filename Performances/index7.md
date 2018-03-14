@@ -18,6 +18,10 @@ Performer: Amy Cartwright
 
 
 
+
+
+
+
 ### 'Shader' (2017)
 
 Creater: [Friendred](http://friendred.me/)
@@ -27,6 +31,10 @@ Performer: Amy Cartwright
 
 
 <iframe src="https://player.vimeo.com/video/213000785" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+
 
 
 
@@ -40,6 +48,10 @@ Performer: Amy Cartwright
 
 
 
+
+
+
+
 ### excerpt from: 'If Not' (2015)
 
 Choreographer: Bahar Fattahi
@@ -50,6 +62,10 @@ Performers: Amy Cartwright, Erica Moshman
 
 
 
+
+
+
+
 ### 'Improv' (2016)
 
 Performers: Amy Cartwright
@@ -57,6 +73,10 @@ Performers: Amy Cartwright
 Filmography: [Alice Underwood](https://vimeo.com/aliceu)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0E7rfZqzSkA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+
 
 
 
