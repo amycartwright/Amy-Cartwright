@@ -2,7 +2,7 @@
 
 # In Between
 
-A collaboration with [Estera Parker] (http://www.esteraparker.com/)
+A collaboration with [Estera Parker](http://www.esteraparker.com/)
 
 A hypnic jerk is understood as a miscommunication between the brain and consciousness. Involuntary twitches are seen as a result of electrical impulses sent by our brain to our body, often followed by the sensation of falling. It speaks of a struggle of control between body and mind.
 
