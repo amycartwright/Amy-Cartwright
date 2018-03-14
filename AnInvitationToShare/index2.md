@@ -18,7 +18,7 @@ In this piece the user enters into the space in front of the screen and is faced
 The longer the user is willing to interact with the piece the more information they will receive. The catch is if the user wants to receive this information they must keep moving, for almost as soon as something is revealed to them it begins to fade away and be replaced once more by their own image. They are constantly in the way and must be willing to work hard to engage fully.
 
 
-[![Video](http://img.youtube.com/vi/jo7abX55ccM/0.jpg)](http://www.youtube.com/watch?v=jo7abX55ccM)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jo7abX55ccM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 [Creative Process](creativeProcess.md) 

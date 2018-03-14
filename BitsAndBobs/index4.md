@@ -6,30 +6,30 @@
 
 ### Fun with frame differencing
 
-[![Video](http://img.youtube.com/vi/E3YaBXI_JvU/0.jpg)](http://www.youtube.com/watch?v=E3YaBXI_JvU)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/E3YaBXI_JvU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### More fun with frame differencing
 
-[![Video](http://img.youtube.com/vi/8gxmY9YJrwQ/0.jpg)](http://www.youtube.com/watch?v=8gxmY9YJrwQ)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8gxmY9YJrwQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Webcam piano
 
-[![Video](http://img.youtube.com/vi/81eMM5HpMps/0.jpg)](http://www.youtube.com/watch?v=81eMM5HpMps)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/81eMM5HpMps" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Fun with colour tracking
 
-[![Video](http://img.youtube.com/vi/_rgiHLR4ikM/0.jpg)](http://www.youtube.com/watch?v=_rgiHLR4ikM)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/_rgiHLR4ikM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-### OSC Face tracking
+### Face OSC
 
-[![Video](http://img.youtube.com/vi/xHQRCM1pUpY/0.jpg)](http://www.youtube.com/watch?v=xHQRCM1pUpY)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xHQRCM1pUpY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Meditations (first work in C++)
 
-[![Video](http://img.youtube.com/vi/Y649iEfAFJM/0.jpg)](http://www.youtube.com/watch?v=Y649iEfAFJM)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Y649iEfAFJM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

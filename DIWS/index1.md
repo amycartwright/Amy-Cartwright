@@ -6,7 +6,7 @@ Bringing a set of three non-anthropomorphic autonoma together with a human dance
 
 Dancers in White, Standing avoids the anthropocentrism of replicating human motion in the non-human performers by instead using forms of motion that are pre-existing in non-human forms. The fragility and uncertainty of the robotic arm allows for explorations into movements that are markedly different from a human dancer. Responding to its fellow dancers in real-time, the improvised choreography allows each arm to demonstrate its own identity, as both a non-human entity and as a performer.
 
-[![Video](http://img.youtube.com/vi/SO51kJOUYJg/0.jpg)](http://www.youtube.com/watch?v=SO51kJOUYJg)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/SO51kJOUYJg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 

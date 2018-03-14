@@ -46,8 +46,6 @@ Choreographer: Bahar Fattahi
 
 Performers: Amy Cartwright, Erica Moshman
 
-[![Video](http://img.youtube.com/vi/FgLCWZXyjII/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/FgLCWZXyjII)
-
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FgLCWZXyjII" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
@@ -58,7 +56,7 @@ Performers: Amy Cartwright
 
 Filmography: [Alice Underwood](https://vimeo.com/aliceu)
 
-[![Video](http://img.youtube.com/vi/0E7rfZqzSkA/0.jpg)](http://www.youtube.com/watch?v=0E7rfZqzSkA)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0E7rfZqzSkA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
@@ -70,7 +68,7 @@ Composer: Gareth Moorcraft
 
 Performer: Amy Cartwright
 
-[![Video](http://img.youtube.com/vi/BKkLw4_q_vs/0.jpg)](http://www.youtube.com/watch?BKkLw4_q_vs)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BKkLw4_q_vs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
