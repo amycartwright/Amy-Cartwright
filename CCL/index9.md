@@ -3,7 +3,7 @@
 # A score for Y
 
 
-This piece was created at the [Choreographic Coding Lab](http://choreographiccoding.org/) 2017 in collaboration with Marcel Smit.
+This piece was created at the [Choreographic Coding Lab](http://choreographiccoding.org/){:target="_blank"} 2017 in collaboration with Marcel Smit.
 
 [Creative Process](creativeProcess.md) 
 
