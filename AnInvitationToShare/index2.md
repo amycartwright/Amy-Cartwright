@@ -2,6 +2,10 @@
 
 # An Invitation to Share
 
+
+[Creative Process](creativeProcess.md) 
+
+
 An interactive program that allows the willing user a glimpse into normally unshared and unseen dance rehearsal notes and footage. 
 
 Created in response to growing concerns in the digital dance community regarding dance artists unwillingness to share data from their pieces.
@@ -21,5 +25,5 @@ The longer the user is willing to interact with the piece the more information t
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jo7abX55ccM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-[Creative Process](creativeProcess.md) 
+
 
