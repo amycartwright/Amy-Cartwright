@@ -11,6 +11,9 @@ I am attracted to the motion of [linear actuators](https://en.wikipedia.org/wiki
 
 These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include contructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introduncting CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
 
+
+Does a non-human dancer need to be limited to the sences of a human dancer? Whoa big question! 
+
 ### Feedback sessions
 
 _10/01/18_
