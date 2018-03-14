@@ -16,15 +16,20 @@ I did originally consider having the underlying film show lines of pure data fro
 
 Ideally when this piece is exhibited it should be shown with large stage lights and a slightly more theatrical setup (see sketch below). This equipment was not available to me at this time but will be considered for future showings. 
 
-![Sketch](img/AITSSetup)
+![Sketch](img/AITSSetup.jpg)
 
 
 ### References
 
 http://alereimondo.no-ip.org/OpenCV/34
+
 https://github.com/firmread/ofDemystified/tree/master/05-Video-05-VideoCameraSynth
+
 https://github.com/roymacdonald/ofxDLib
+
 https://github.com/lian/ofx-dev/tree/master/addons/ofxOpenCv
+
 All footage comes from private rehearsals of a recent performance.
+
 Mastering Open Frameworks: Creative Coding Demystified - Denis Perevalov
 
