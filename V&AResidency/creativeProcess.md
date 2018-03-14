@@ -2,12 +2,12 @@
 
 ### Early Experiments
 
-Cardboard prototype of a very simple [Electromechanical Actuator](https://www.mbtmag.com/article/2012/05/hydraulic-vs-electromechanical-actuators)
+Cardboard prototype of a very simple <a href="https://www.mbtmag.com/article/2012/05/hydraulic-vs-electromechanical-actuators" target="_blank"> Electromechanical Actuator </a> 
 
 [![Video](http://img.youtube.com/vi/E1WnEYtShpk/0.jpg)](http://www.youtube.com/watch?v=E1WnEYtShpk)
 
 
-I am attracted to the motion of [linear actuators](https://en.wikipedia.org/wiki/Linear_actuator), as the motion of extension they have is not something that we see when observing movement in the human body. When we talk about movement and choreography we often reffer to expanding the body into the space around us. A linear actuator physically expands into the space. Making a simple prototype of this type of movement will allow me to explore the posibilities around using this type of mechanical  movement in performance. Is it too abstract? Is there still allowance for the audience to look at it as a perofrmer or is a familiarity of movement essential? Do we need to be able to relate to the motion of the mechanical performer in order for us to view it as a performer. 
+I am attracted to the motion of <a href="https://en.wikipedia.org/wiki/Linear_actuator" target="_blank"> linear actuators </a> , as the motion of extension they have is not something that we see when observing movement in the human body. When we talk about movement and choreography we often reffer to expanding the body into the space around us. A linear actuator physically expands into the space. Making a simple prototype of this type of movement will allow me to explore the posibilities around using this type of mechanical  movement in performance. Is it too abstract? Is there still allowance for the audience to look at it as a perofrmer or is a familiarity of movement essential? Do we need to be able to relate to the motion of the mechanical performer in order for us to view it as a performer. 
 
 These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include contructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introduncting CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
 
