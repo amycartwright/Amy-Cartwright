@@ -5,12 +5,14 @@
 Cardboard prototype of a very simple <a href="https://www.mbtmag.com/article/2012/05/hydraulic-vs-electromechanical-actuators" target="_blank"> Electromechanical Actuator </a> 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1WnEYtShpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1WnEYtShpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 I am attracted to the motion of <a href="https://en.wikipedia.org/wiki/Linear_actuator" target="_blank"> linear actuators </a> , as the motion of extension they have is not something that we see when observing movement in the human body. When we talk about movement and choreography we often refer to expanding the body into the space around us. A linear actuator physically expands into the space. Making a simple prototype of this type of movement will allow me to explore the possibilities around using this type of mechanical  movement in performance. Is it too abstract? Is there still allowance for the audience to look at it as a performer or is a familiarity of movement essential? Do we need to be able to relate to the motion of the mechanical performer in order for us to view it as a performer.
 
 These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include constructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introducing CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
+
+Video of actuator motion using CV to come here.
 
 
 Does a non-human dancer need to be limited to the senses of a human dancer? Whoa big question!
@@ -50,14 +52,14 @@ Why is it so important to me to use computer vision to control my prototypes? Ex
 [Movement Matters: How a Robot Becomes Body](http://delivery.acm.org/10.1145/3080000/3078035/a8-gemeinboeck.pdf?ip=158.223.165.48&id=3078035&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520335565_d4833361ae449f68b58db8b9cc764783)
 
 [Capturing and Documenting Creative Processes in
- Contemporary Dance](http://delivery.acm.org/10.1145/3080000/3078041/a7-ribeiro.pdf?ip=158.223.165.48&id=3078041&acc=OA&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E636B648B25476672&__acm__=1520336034_62d61ada870fde8b47518fe244021c82)
+ Contemporary Dance](http://delivery.acm.org/10.1145/3080000/3078041/a7-ribeiro.pdf?ip=158.223.165.48&id=3078041&acc=OA&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E636B648B25476672&__acm__=1520336034_62d61ada870fde8b47518fe244021c82) 
 
 [The Delay Mirror: a Technical Innovation Specific to the Dance Studio](http://delivery.acm.org/10.1145/3080000/3078033/a9-molina-tanco.pdf?ip=158.223.165.48&id=3078033&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520336095_2c86d3a511880a43fbde45cd3c2c0d18)
 
 [Sentimental Soft Robotics as Companion Artefacts](http://moco17.movementcomputing.org/wp-content/uploads/2017/12/ds9-zheng.pdf)
 
 [Kinetic predictors of spectators’ segmentation of a live dance
- performance] (http://moco17.movementcomputing.org/wp-content/uploads/2017/12/poster2-Forger.pdf)
+ performance](http://moco17.movementcomputing.org/wp-content/uploads/2017/12/poster2-Forger.pdf)
 
 [Algorythmic Reflections of Choreography](http://humantechnology.jyu.fi/archive/vol-12/issue-2/algorithmic-reflections-on-choreography/@@display-file/fullPaper/Ventura_Bisig.pdf)
 
