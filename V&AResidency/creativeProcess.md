@@ -5,7 +5,7 @@
 Cardboard prototype of a very simple <a href="https://www.mbtmag.com/article/2012/05/hydraulic-vs-electromechanical-actuators" target="_blank"> Electromechanical Actuator </a> 
 
 
-<iframe width="640" height="360" src="ttp://img.youtube.com/vi/E1WnEYtShpk/0.jpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1WnEYtShpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
 I am attracted to the motion of <a href="https://en.wikipedia.org/wiki/Linear_actuator" target="_blank"> linear actuators </a> , as the motion of extension they have is not something that we see when observing movement in the human body. When we talk about movement and choreography we often refer to expanding the body into the space around us. A linear actuator physically expands into the space. Making a simple prototype of this type of movement will allow me to explore the possibilities around using this type of mechanical  movement in performance. Is it too abstract? Is there still allowance for the audience to look at it as a performer or is a familiarity of movement essential? Do we need to be able to relate to the motion of the mechanical performer in order for us to view it as a performer.
