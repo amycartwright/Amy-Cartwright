@@ -12,7 +12,9 @@ I am attracted to the motion of <a href="https://en.wikipedia.org/wiki/Linear_ac
 
 These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include constructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introducing CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
 
-Video of actuator motion using CV to come here.
+First Prototype of Electromechanical Actuator using Computer Vision
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NdsvM5-pilE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Does a non-human dancer need to be limited to the senses of a human dancer? Whoa big question!
