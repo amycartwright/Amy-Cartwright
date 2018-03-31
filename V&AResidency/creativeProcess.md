@@ -12,9 +12,19 @@ I am attracted to the motion of <a href="https://en.wikipedia.org/wiki/Linear_ac
 
 These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include constructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introducing CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
 
-First Prototype of Electromechanical Actuator using Computer Vision
+First Prototype of Electromechanical Actuator using Computer Vision.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NdsvM5-pilE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+This video shows a quick motion test using color tracking. The movement of the part is mapped to the movement of the hand along the x axis. When my hand extends through the space the piston physically extends into the space.
+
+Color tracking is sufficient for this test however for this piece I would like to explore CV options that allow me to get movement data from the whole body rather than one specific point. As I am working with abstract robotic forms I don't think using the Kinect skeleton tracking is necessary. There is no need to tracking the motion of the specific points of the human body. I want the robot to see the general shape of the motion and so for this I have decided to explore optical flow.
+
+Optical flow
+
+
+
+
 
 
 Does a non-human dancer need to be limited to the senses of a human dancer? Whoa big question!
@@ -54,7 +64,7 @@ Why is it so important to me to use computer vision to control my prototypes? Ex
 [Movement Matters: How a Robot Becomes Body](http://delivery.acm.org/10.1145/3080000/3078035/a8-gemeinboeck.pdf?ip=158.223.165.48&id=3078035&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520335565_d4833361ae449f68b58db8b9cc764783)
 
 [Capturing and Documenting Creative Processes in
- Contemporary Dance](http://delivery.acm.org/10.1145/3080000/3078041/a7-ribeiro.pdf?ip=158.223.165.48&id=3078041&acc=OA&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E636B648B25476672&__acm__=1520336034_62d61ada870fde8b47518fe244021c82) 
+ Contemporary Dance](http://delivery.acm.org/10.1145/3080000/3078041/a7-ribeiro.pdf?ip=158.223.165.48&id=3078041&acc=OA&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E636B648B25476672&__acm__=1520336034_62d61ada870fde8b47518fe244021c82)
 
 [The Delay Mirror: a Technical Innovation Specific to the Dance Studio](http://delivery.acm.org/10.1145/3080000/3078033/a9-molina-tanco.pdf?ip=158.223.165.48&id=3078033&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520336095_2c86d3a511880a43fbde45cd3c2c0d18)
 
