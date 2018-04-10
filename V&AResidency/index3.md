@@ -13,7 +13,7 @@ Deliverable's
 
 ### Proposal
 
-I want to use these three months to further my research into non-human dancers. Working with abstract forms I will explore different  to create agency for non-human dancers in the performance space. I will explore different methods of sensing other bodies in the space and different types of mechanical motion. Questions I am interested in:
+I want to use these three months to further my practical research into non-human dancers. Working with abstract robotic forms I will explore how to create agency for non-human dancers in a live performance space. I will explore different methods of sensing other bodies in the space and different types of mechanical motion. Questions I am interested in:
 
 * Does the non-human dancer need to use motion data or can the data be collected in some other way?
 * How far can our perception of agency be stretched. Does more abstraction equal less agency?
