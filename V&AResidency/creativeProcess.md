@@ -15,6 +15,8 @@ Choreography and fine tuning. My final month of the residency will be dedicated 
 
 ### Early Experiments
 
+#### Build
+
 Cardboard prototype of a very simple <a href="https://www.mbtmag.com/article/2012/05/hydraulic-vs-electromechanical-actuators" target="_blank"> Electromechanical Actuator </a> 
 
 
@@ -31,9 +33,30 @@ First Prototype of Electromechanical Actuator using Computer Vision.
 
 This video shows a quick motion test using color tracking. The movement of the part is mapped to the movement of the hand along the x axis. When my hand extends through the space the piston physically extends into the space.
 
-Color tracking is sufficient for this test however for this piece I would like to explore CV options that allow me to get movement data from the whole body rather than one specific point. As I am working with abstract robotic forms I don't think using the Kinect skeleton tracking is necessary. There is no need to tracking the motion of the specific points of the human body. I want the robot to see the general shape of the motion and so for this I have decided to explore optical flow.
+Following on from this initial build I felt that the range of motion of the part could be increased with some minor adaptations to the physical structure. Instead of connecting the moving lever to the outermost edge of the tube that moves I have connected it to the bottom edge. This allows th tube to extend much further into space. Problems with this build include an increased sense of instability as the tubes disconnect much easier. I think to solve this problem the tubes need to be longer.
+
+![Notes](img/Prototype 2.jpg)
+![Notes](img/Prototype2.1.jpg)
+![Notes](img/Prototype2.2.jpg)
+
+I would also like to work on the aesthetic. Rather than a solid tube I would like to try 3D printing a mesh tubing design.  The design shown below has been created using a Voronoi diagram. I like the delicacy of this design which is influenced by the design of some modern day protethics. 
+
+![Notes](img/VoroniTube.jpg)
+
+
+#### Software
+
+Color Tracking
+Will allow me to track motion of one/several specific points on the body. Issues with this are that I do not want the tracking to be obvious. I dont want to pull the audience out of the state of watching the performance by highlighting how the robots are working. I feel very strongly that this will minimise overall perceptive agency.
+
+Kinect
+As I am working with abstract robotic forms I don't think using the Kinect skeleton tracking is necessary. There is no need to track the motion of the specific points of the human body. 
 
 Optical flow
+Will allw the robot to look at the movement almost as if looking with blurry gaze. It will get a general sense of the movenent but not 
+
+Machine Learning
+
 
 
 
@@ -127,6 +150,9 @@ Why is it so important to me to use computer vision to control my prototypes? Ex
 [Merging Dance, Rootics and AI](http://this.deakin.edu.au/innovation/one-creative-team-merging-dance-robotics-and-ai)
 
 [Pinoke](http://motionlab.deakin.edu.au/portfolio/thepinokeproject/?_ga=2.52499240.1815394856.1520368039-1585838154.1520368039)
+
+[Robot made using linear actuators] (https://www.youtube.com/watch?v=H14O47a2E88)
+
 
 
 ### People to talk to
