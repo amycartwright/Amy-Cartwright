@@ -11,6 +11,8 @@ Building and coding. This month will be dedicated to solving technical solutions
 May
 Choreography and fine tuning. My final month of the residency will be dedicated to creating the dance work. Choreographing both the non-human and the human dancer. Using the program that has been created I will take the robotic dancer into the rehearsal space and begin to explore different movement relationships that can exist within the duet.
 
+## Experimentation, Discovery and Research
+
 ### Early Experiments
 
 Cardboard prototype of a very simple <a href="https://www.mbtmag.com/article/2012/05/hydraulic-vs-electromechanical-actuators" target="_blank"> Electromechanical Actuator </a> 
