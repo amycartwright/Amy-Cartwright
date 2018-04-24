@@ -53,7 +53,7 @@ Kinect
 As I am working with abstract robotic forms I don't think using the Kinect skeleton tracking is necessary. There is no need to track the motion of the specific points of the human body. 
 
 Optical flow
-Will allw the robot to look at the movement almost as if looking with blurry gaze. It will get a general sense of the movenent but not 
+Will allow the robot to look at the movement almost as if looking with blurry gaze. It will get a general sense of the movenent but not 
 
 Machine Learning
 
@@ -152,6 +152,10 @@ Why is it so important to me to use computer vision to control my prototypes? Ex
 [Pinoke](http://motionlab.deakin.edu.au/portfolio/thepinokeproject/?_ga=2.52499240.1815394856.1520368039-1585838154.1520368039)
 
 [Robot made using linear actuators] (https://www.youtube.com/watch?v=H14O47a2E88)
+
+[How to stick form lab prints together](https://formlabs.com/blog/how-to-create-models-larger-than-your-3d-printers-build-volume/0)
+
+[Formlab tech specs] (https://formlabs.com/3d-printers/form-2/tech-specs/)
 
 
 
