@@ -18,5 +18,3 @@ I want to use these three months to further my practical research into non-human
 * Does the non-human dancer need to use motion data or can the data be collected in some other way?
 * How far can our perception of agency be stretched. Does more abstraction equal less agency?
 * How important are other elements of a performance (music, setting, lighting etc..) in the quest for perforative agency for non-human performers?
-
-A side project I am working on that may feed into this project. I am assembling a collection of simple sketches that demonstrate algorithms that can be used in a choreographic process. Some of these are algorithms that can be taken away from the screen and translated into choreographic tasks. Others will remain on the screen and be used by dancers as guidance for creating movement.
