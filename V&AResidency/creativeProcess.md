@@ -18,6 +18,9 @@ When thinking about the movement capabilities of my robotic performer I am attra
 
  Does a non-human dancer need to be limited to the senses of a human dancer? Whoa big question!
 
+
+ (Insert render of imagined set up)
+
  -----------------------------------------------------
 
 ### Early Experiments
@@ -46,6 +49,8 @@ Following on from this initial build I felt that the range of motion of the part
 I would also like to work on the aesthetic. Rather than a solid tube I would like to try 3D printing a mesh tubing design.  The design shown below has been created using a Voronoi diagram. I like the delicacy of this design which is influenced by the design of some modern day prosthetics.
 
 ![Notes](img/VoroniTube.jpg)
+
+(Insert image of possible layout options)
 
 
 #### Software Options
