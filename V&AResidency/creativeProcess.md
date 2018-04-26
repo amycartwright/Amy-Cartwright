@@ -1,17 +1,24 @@
 # Creative Process
 
-### Timeline
+Disclaimer - This piece is a work in progress, here you will find my research, discoveries, experiments and ramblings. This is not finished documentation but will form the basis of that once the piece has reached a conclusion. I will strive to keep it as detailed and current as possible but please forgive any gaps or non-sensical writing!
 
-March
-Experimentation, discovery and research. I want to use this month to explore my options. To see what tools are available to me and discover what works and what doesn't work. I will make small prototypes of different types of robotic motion and play with different methods of data input. I will try to find which of these small experiments interest me the most and which invite further exploration.
+### Concept
 
-April
-Building and coding. This month will be dedicated to solving technical solutions in both the physical build of the robot and the coded program. Ideally at the end of this month I will have a good second or third iteration of both of these. Something that I can continue to work with going forward into the final month.
+My aim is to make a dance piece that continues explorations that I began in my previous piece "Dancers In White, Standing"(DIWS). My research centers around the possibility of giving non-human dancers agency in the performance space. This topic was touched upon in that piece and will be extended here by presenting a different robotic structure in a different performance setting.
 
-May
-Choreography and fine tuning. My final month of the residency will be dedicated to creating the dance work. Choreographing both the non-human and the human dancer. Using the program that has been created I will take the robotic dancer into the rehearsal space and begin to explore different movement relationships that can exist within the duet.
+In DIWS there were two main elements - Human Dancer and Non-Human Dancer. They related to each other, non-human dancer took movement data from the human dancer and the human dancer responded to the motions of the non-human dancer. A loop was created and both performers where responsible for the gradual real time build of the choreography. For this piece I would like to add an additional element. The non-human dancer will still take movement data from the human dancer but the human dancer will take influence from another source. Rather than creating a feedback loop this piece will operate more like a game of 'Chinese Whispers'.
 
-## Experimentation, Discovery and Research
+The question I face here is what is this 'other source' that the human dancer will take influence from? This is something that requires a lot of consideration as ultimately the data taken from this source will drive the choreography of the entire piece. I would like to use archival footage of older dance works, perhaps works that are no longer being performed. The human dancer will respond to the footage and the non-human dancer will, in turn, respond to the human dancer. With each displacement the movement will move further from the original but a new work will be created. The final stepping stone of the chain will produce a piece performed by the non-human dancer which will act almost like a memory of the original footage. Altered and shifted over time but related non the less.  
+
+As with DIWS I would like the movement of the human dancer in this piece to be improvised. Improvised movement allows for the unexpected. If the movement is choreographed the robots motion (which is dependent on data from the human dancer) will be the same in each performance. This unexpectedness allows for more agency.  
+
+When thinking about the movement capabilities of my robotic performer I am attracted to the motion of <a href="https://en.wikipedia.org/wiki/Linear_actuator" target="_blank"> linear actuators </a> , as the motion of extension they have is not something that we see when observing movement in the human body. When we talk about movement and choreography we often refer to expanding the body into the space around us. A linear actuator physically expands into the space. I would like to experiment with this type of movement. Is it too abstract? Is there still allowance for the audience to look at it as a performer or is more familiar and relatable shape essential? Do we need to be able to relate to the motion of the mechanical performer in order for us to view it as a performer. These questions are difficult to answer at this stage but I think are worth further exploration.
+
+ The software will make use of computer vision (CV). A camera will capture the human dancers movements which will be translated into location based data. This data will then be manipulated and set to the non-human dancer. Why is it so important to me to use computer vision? Explore the gap between using something like a potentiometer and computer vision. There is a difference. What is it? How can you show this? How can you demonstrate this? Open the crack wider. Using CV gives the non-human dancer a sense. They are able to see the human - dancer (in the same way that I can see a another dancer on the stage with me) they can collect data and interpret it into information that is useful for them. Exploring agency, when I use cv there is another person in the room with me. I can experiment and find out what works what doesn't, what is surprising. the agency coming from the physical can be faked. Fine line - sit just below it. The software can fill any gaps in agency - So how the robot respond to the human.
+
+ Does a non-human dancer need to be limited to the senses of a human dancer? Whoa big question!
+
+ -----------------------------------------------------
 
 ### Early Experiments
 
@@ -22,10 +29,7 @@ Cardboard prototype of a very simple <a href="https://www.mbtmag.com/article/201
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E1WnEYtShpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-I am attracted to the motion of <a href="https://en.wikipedia.org/wiki/Linear_actuator" target="_blank"> linear actuators </a> , as the motion of extension they have is not something that we see when observing movement in the human body. When we talk about movement and choreography we often refer to expanding the body into the space around us. A linear actuator physically expands into the space. Making a simple prototype of this type of movement will allow me to explore the possibilities around using this type of mechanical  movement in performance. Is it too abstract? Is there still allowance for the audience to look at it as a performer or is a familiarity of movement essential? Do we need to be able to relate to the motion of the mechanical performer in order for us to view it as a performer.
-
-These questions are difficult to answer at this stage but I think are worth further exploration. Next steps for this prototype will include constructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introducing CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
+Next steps for this prototype will include constructing a more solid physical form using plastic tubing and 3D printing. I will then work on the software. Introducing CV and running a series of tests to see how the movement of the human can effect the movement of this very simple 'part'. And even more important what the effect is on the onlooker when watching this 'part' moving alongside a human body in a shared space.
 
 First Prototype of Electromechanical Actuator using Computer Vision.
 
@@ -39,61 +43,26 @@ Following on from this initial build I felt that the range of motion of the part
 ![Notes](img/Prototype2.1.jpg)
 ![Notes](img/Prototype2.2.jpg)
 
-I would also like to work on the aesthetic. Rather than a solid tube I would like to try 3D printing a mesh tubing design.  The design shown below has been created using a Voronoi diagram. I like the delicacy of this design which is influenced by the design of some modern day protethics. 
+I would also like to work on the aesthetic. Rather than a solid tube I would like to try 3D printing a mesh tubing design.  The design shown below has been created using a Voronoi diagram. I like the delicacy of this design which is influenced by the design of some modern day prosthetics.
 
 ![Notes](img/VoroniTube.jpg)
 
 
-#### Software
+#### Software Options
 
 Color Tracking
-Will allow me to track motion of one/several specific points on the body. Issues with this are that I do not want the tracking to be obvious. I dont want to pull the audience out of the state of watching the performance by highlighting how the robots are working. I feel very strongly that this will minimise overall perceptive agency.
+I have used this technique before. It will allow me to track motion of one/several specific points on the body. Issues with this are that I do not want the tracking to be obvious. I don't want to pull the audience out of the state of watching the performance by highlighting how the robots are working. I feel very strongly that this will minimise overall perceptive agency. There are also issues with setup, when using color tracking the environment need to be very carefully setup with appropriate lighting. This is suitable if the piece will always be performed in a controlled environment but not ideal for the longevity of the piece.
 
 Kinect
-As I am working with abstract robotic forms I don't think using the Kinect skeleton tracking is necessary. There is no need to track the motion of the specific points of the human body. 
+As I am working with abstract robotic forms I don't think using the Kinect skeleton tracking is necessary. There is no need to track the motion of the specific points of the human body.
 
 Optical flow
-Will allow the robot to look at the movement almost as if looking with blurry gaze. It will get a general sense of the movenent but not 
+Will allow the robot to look at the movement almost as if looking with blurry gaze. It will get a general sense of the movement but not
 
 Machine Learning
 
 
-
-
-
-
-
-Does a non-human dancer need to be limited to the senses of a human dancer? Whoa big question!
-
-### Feedback sessions
-
-_10/01/18_
-First session rough notes following discussion with tutor and peers
-
-![Notes](img/100118Notes.jpg)
-![Notes](img/100118Notes1.jpg)
-
-_17/01/18_
-Preliminary thoughts - notes in image below taken by tutor
-
-![Notes](img/170118Notes.jpg)
-
-_24/02/18_
-How to use blogging and writing to accompany your artistic practice
-
-[Writing Task](writingTask.md)
-
-_07/02/18_
-Brief notes detailing discussions
-
-![Notes](img/070218Notes.jpg)
-
-_21/02/18_
-Specific details - notes in image below taken by tutor
-
-![Notes](img/210218Notes.jpg)
-
-Why is it so important to me to use computer vision to control my prototypes? Explore the gap between using something like a potentiometer and computer vision. There is a difference. What is it? How can you show this? How can you demonstrate this? Open the crack wider. Exploring agency, when i use cv there is another person in the room with me. I can experiment and find out what works what doesn't, what is surprising. the agency coming from the physical can be faked. Fine line - sit just below it. The software can fill any gaps in agency - So how the robot respond to the human.
+-----------------------------------------------------
 
 ### Reading
 
@@ -114,6 +83,7 @@ Why is it so important to me to use computer vision to control my prototypes? Ex
 [Leveraging morphological computation for expressive movement
  generation in a soft robotic artwork](http://delivery.acm.org/10.1145/3080000/3078029/a20-jorgensen.pdf?ip=86.172.150.17&id=3078029&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E18BBEBD7797679F3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520368645_adca975fea6ea08a8063c36dfeda5a6e)
 
+-----------------------------------------------------
 
 ### Resources
 
@@ -157,7 +127,49 @@ Why is it so important to me to use computer vision to control my prototypes? Ex
 
 [Formlab tech specs] (https://formlabs.com/3d-printers/form-2/tech-specs/)
 
+-----------------------------------------------------
 
+## Notes (Dumping Ground)
+
+### Feedback sessions
+
+_10/01/18_
+First session rough notes following discussion with tutor and peers
+
+![Notes](img/100118Notes.jpg)
+![Notes](img/100118Notes1.jpg)
+
+_17/01/18_
+Preliminary thoughts - notes in image below taken by tutor
+
+![Notes](img/170118Notes.jpg)
+
+_24/02/18_
+How to use blogging and writing to accompany your artistic practice
+
+[Writing Task](writingTask.md)
+
+_07/02/18_
+Brief notes detailing discussions
+
+![Notes](img/070218Notes.jpg)
+
+_21/02/18_
+Specific details - notes in image below taken by tutor
+
+![Notes](img/210218Notes.jpg)
+
+
+### Timeline
+
+March
+Experimentation, discovery and research. I want to use this month to explore my options. To see what tools are available to me and discover what works and what doesn't work. I will make small prototypes of different types of robotic motion and play with different methods of data input. I will try to find which of these small experiments interest me the most and which invite further exploration.
+
+April
+Building and coding. This month will be dedicated to solving technical solutions in both the physical build of the robot and the coded program. Ideally at the end of this month I will have a good second or third iteration of both of these. Something that I can continue to work with going forward into the final month.
+
+May
+Choreography and fine tuning. My final month of the residency will be dedicated to creating the dance work. Choreographing both the non-human and the human dancer. Using the program that has been created I will take the robotic dancer into the rehearsal space and begin to explore different movement relationships that can exist within the duet.
 
 ### People to talk to
 
