@@ -132,6 +132,8 @@ Machine Learning
 
 [Formlab tech specs] (https://formlabs.com/3d-printers/form-2/tech-specs/)
 
+[Making 3D Voronoi Model in Meshmixer] (http://www.instructables.com/id/Make-Voronoi-Pattern-with-Autodesk-Meshmixer/);
+
 -----------------------------------------------------
 
 ## Notes (Dumping Ground)
