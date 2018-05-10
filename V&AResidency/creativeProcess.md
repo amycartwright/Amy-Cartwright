@@ -106,6 +106,8 @@ Machine Learning
 
 [What its like to be a robot - Ted Talk + Written speech](https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?ref=hvper.com)
 
+[Caroline Liebl] (http://www.carolinliebl.de/vincent-und-emily)
+
 [Goodbye Uncanny Valley - Alan Warburton](https://vimeo.com/237568588)
 
 [Undercurrents - Albert Omass](https://omoss.io/work/undercurrents)
@@ -132,7 +134,9 @@ Machine Learning
 
 [Formlab tech specs] (https://formlabs.com/3d-printers/form-2/tech-specs/)
 
-[Making 3D Voronoi Model in Meshmixer] (http://www.instructables.com/id/Make-Voronoi-Pattern-with-Autodesk-Meshmixer/);
+[Making 3D Voronoi Model in Meshmixer](http://www.instructables.com/id/Make-Voronoi-Pattern-with-Autodesk-Meshmixer/);
+
+[Useful blog on using Osc in processing](http://www.technopagan.net/blog/tech/processing-osc/) 
 
 -----------------------------------------------------
 
@@ -166,6 +170,9 @@ Specific details - notes in image below taken by tutor
 
 ![Notes](img/210218Notes.jpg)
 
+'Audrey Munson' - was the model for a huge amount of the statues in NYC. She is the face that gives agency to so many fictuous, religious and historical figures. [Wiki](https://en.wikipedia.org/wiki/Audrey_Munson)
+
+Queen of the artists studios  - andrea geyer
 
 ### Timeline
 
