@@ -24,7 +24,7 @@
 [Score for Y](CCL/index9.md)
 
 
-[Bits and Bobs](BitsAndBobs/index4.md)
+[Computational Bits and Bobs](BitsAndBobs/index4.md)
 
 
 [Performance Work](Performances/index7.md)

@@ -95,4 +95,17 @@ Performer: Amy Cartwright
 
 
 
+### Playing with Interactive Systems
+
+Created by: [Friendred](http://friendred.me/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eP7sAyeNT7U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+Created by: Colin Higgs
+
+<iframe src="https://vimeo.com/265838461/abfc35520e" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
 
