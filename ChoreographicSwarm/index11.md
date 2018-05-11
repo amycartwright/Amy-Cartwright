@@ -3,6 +3,9 @@
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ptwO6Qy5WDY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+[Github](https://github.com/amycartwright/Choreographic-Swarm) 
+
+
 I wanted to explore the possibility of using processing to create a dance performance. A loose
 computational choreography. I decided to try and achieve this by creating a choreographic
 loop, the dancer moves in front of the webcam and the program will take the data from the
