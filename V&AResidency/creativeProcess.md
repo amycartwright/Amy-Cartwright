@@ -182,7 +182,8 @@ Queen of the artists studios  - andrea geyer
 
 Anthromorphism when working with non-human forms - Mapping between two extremely differet bodies. Remove politics and preconception by making robots non-human looking. 
 
-#### Machine Learning (Toby K)
+#### Machine Learning 
+[Toby K](http://www.tobyk.com.au/)
 
 Machine Learning does not require language --> we let the machine figure out the steps needed to solve the task. 
 
@@ -203,6 +204,8 @@ Be careful of language used. Machine learning does not mean machine understandin
 
 #### Maria Judova
 
+[Website] (http://mariajudova.net/)
+
 How do we capture a moving body?
 Communicaton between dancer and non-dancer. 
 
@@ -222,6 +225,7 @@ Alphabet Box/Cube - Trisha Brown.
 
 
 #### Mio Sinclair
+[Waltz Binaire](http://waltzbinaire.com/) 
 
 Kandinsky - Point --> Line --> Plane. Can this be used as a way to communicate dance?
 
@@ -239,10 +243,11 @@ Modern Dance is a technology a technology that Pina Bauch used to make 'The Rite
 Old German Law --> Humans are defined as creatures that see themselves. 
 
 #### Ka Fai Choi
+[Website](http://www.ka5.info/)
 
 Muscle stimulation using elecrticity
 
-Alan Lomax Film - [Dance and Human History] (https://www.youtube.com/watch?v=MOsZhZIQ-6Q)
+Alan Lomax Film - [Dance and Human History](https://www.youtube.com/watch?v=MOsZhZIQ-6Q)
 
 What are the choreographic minds of future dancers?
 
@@ -278,10 +283,12 @@ Anthropmorphising geometric shapes
 [Norman McLaren](https://en.wikipedia.org/wiki/Norman_McLaren)
 
 #### Alexander Scholz
+[Website](http://www.creativeapplications.net/)
 
 [Holo Magazine](http://holo-magazine.com/1/)
 
-READ - [System Aesthetics] (https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf) [other info] (http://www.tate.org.uk/research/publications/tate-papers/05/all-systems-go-recovering-jack-burnhams-systems-aesthetics)
+READ - [System Aesthetics](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf) 
+[other info](http://www.tate.org.uk/research/publications/tate-papers/05/all-systems-go-recovering-jack-burnhams-systems-aesthetics)
 
 Artists in this field often have dificulties identifying what we do.
 
@@ -293,6 +300,7 @@ Things that are not computable are becoming strange and are ceasing to exist,
 Florian Kramer - [Transmediale Publication](https://transmediale.de/archive/publications?f%5B0%5D=field_year%3A38)
 
 #### Andrej Boleslavski
+[Website](http://id144.org/)
  Physicality to Virtual Media
 
 Choreographic objects. Objects that guide movement through the space. 
@@ -302,6 +310,7 @@ All digital art is performance. They have the same problem of limited life spac 
 github id144
 
 #### Joachim Sauter
+[Website](http://www.joachimsauter.com/)
 
 The infustion of physical into digital world
 
