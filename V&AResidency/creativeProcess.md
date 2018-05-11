@@ -19,6 +19,10 @@ When thinking about the movement capabilities of my robotic performer I am attra
  Does a non-human dancer need to be limited to the senses of a human dancer? Whoa big question!
 
 
+How can I explore code each day while still allowing myself to explore movement?
+
+
+
  (Insert render of imagined set up)
 
  -----------------------------------------------------
@@ -173,6 +177,150 @@ Specific details - notes in image below taken by tutor
 'Audrey Munson' - was the model for a huge amount of the statues in NYC. She is the face that gives agency to so many fictuous, religious and historical figures. [Wiki](https://en.wikipedia.org/wiki/Audrey_Munson)
 
 Queen of the artists studios  - andrea geyer
+
+### CCL / Sensorium 2018
+
+Anthromorphism when working with non-human forms - Mapping between two extremely differet bodies. Remove politics and preconception by making robots non-human looking. 
+
+#### Machine Learning (Toby K)
+
+Machine Learning does not require language --> we let the machine figure out the steps needed to solve the task. 
+
+* Cassification Task 
+* Generative Task 
+
+Different types of machine learning algorythms 
+
+* Neural Networks 
+* T-SNE - Unsupervised
+* K Nearest Neighbours
+* Diffusion Map
+* Error driven learning
+
+Machine learning is not inherantly connected to AI
+
+Be careful of language used. Machine learning does not mean machine understanding. i.e. Just because a machine responds to emotion does not mean it understands that emotion. 
+
+#### Maria Judova
+
+How do we capture a moving body?
+Communicaton between dancer and non-dancer. 
+
+Impact can be created with simplicity --> too much input can be overkill
+
+Dance will always have noise. We need to filer this noise when working with computational elements but bow can it be filtered without loosing meaning?
+
+Mental image of movement is different from an actual movement. 
+
+Boundaries between real and virtual. 
+
+Generative footage vs found footage
+
+'Dust' - Not only VR as the user us able to see themselves in the surroundings they are currently in. The real world existing in the virtual that can be maniputated. 
+
+Alphabet Box/Cube - Trisha Brown. 
+
+
+#### Mio Sinclair
+
+Kandinsky - Point --> Line --> Plane. Can this be used as a way to communicate dance?
+
+What do you do when it stops working is there a contract for this? 
+
+Most important WHY --> Why does the tech exist in the piece?
+                   --> Why am I making this work?
+
+How do we percieve dance?
+
+Actors moved to TV, musicians moved to Radio, Dance refused to fit through a cable. --> This is the beauty of dance. Is it the intention of the dancer that doesnt fit through the cable?
+
+Modern Dance is a technology a technology that Pina Bauch used to make 'The Rite of Spring' which is the grounding of dance. It pulled dance beack into the earth and completed the story of modern dance. Any modern dance made after this piece is seen as cheesy beause it has altreay been peaked. 
+
+Old German Law --> Humans are defined as creatures that see themselves. 
+
+#### Ka Fai Choi
+
+Muscle stimulation using elecrticity
+
+Alan Lomax Film - [Dance and Human History] (https://www.youtube.com/watch?v=MOsZhZIQ-6Q)
+
+What are the choreographic minds of future dancers?
+
+What do we think about when we think about dance?
+
+Using renders to show a hypothetical work --> this allows the art work to exist even before it can exist in real life. Allows the artist to work with technologies that are not yet invented or not advanced enough for purpose. Allows the artist to explore avenues that seem unobtainable in reality . 
+
+#### Joshua Nobel 
+
+Designing less real
+
+Design is an anti dicipline --> there are no values
+
+Elliot Montgomery --> [unreserved mapping of speculative design](https://www.google.co.uk/search?q=eliot+montgomery+-+mapping+of+speculative+design&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQhrmK8P3aAhWHRMAKHd8MDQYQ_AUICigB&biw=1211&bih=699#imgrc=37N-MZ-rRmB5SM:)
+
+Anthropology not fiction
+
+Minimum Viable Reality 
+
+Free yourself from what you can build --> you can make more real things with less real things. 
+
+The tool is just the tool,not the artwork or the design. It is a step towards giving understanding to the art/design.
+
+#### Jessica In
+
+Stuart Brand - Pace Layering 
+
+Lucinda Childs - choreographic notation
+
+How can you visualise things that are not seen?
+
+Anthropmorphising geometric shapes
+[Norman McLaren](https://en.wikipedia.org/wiki/Norman_McLaren)
+
+#### Alexander Scholz
+
+[Holo Magazine](http://holo-magazine.com/1/)
+
+READ - [System Aesthetics] (https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf) [other info] (http://www.tate.org.uk/research/publications/tate-papers/05/all-systems-go-recovering-jack-burnhams-systems-aesthetics)
+
+Artists in this field often have dificulties identifying what we do.
+
+Parachute somewhere --> Explore the posibilities --> Go beyond the horizon. 
+
+Things that are not computable cant exist. 
+Things that are not computable are becoming strange and are ceasing to exist, 
+
+Florian Kramer - [Transmediale Publication](https://transmediale.de/archive/publications?f%5B0%5D=field_year%3A38)
+
+#### Andrej Boleslavski
+ Physicality to Virtual Media
+
+Choreographic objects. Objects that guide movement through the space. 
+
+All digital art is performance. They have the same problem of limited life spac as live performance as the tech used becomes obsolete very fast. 
+
+github id144
+
+#### Joachim Sauter
+
+The infustion of physical into digital world
+
+Poetry of motion 
+
+Phygital
+Postvirtual
+Neophysical
+Postdigital
+
+artcom.de
+
+
+#### Extra notes
+
+Caroline Liebl
+
+Jeanne - All technology has agency when put on a stage. How do we deal with this?
+
 
 ### Timeline
 
