@@ -91,6 +91,7 @@ This sketch also shows an additional iteration which uses pneumonic controlled b
 
 A first small scale prototype of the final design. This one currently uses servo motors. I would like to complete a working version of this before moving to the syringe. It may not be entirely necessary depending on how jittery the motors are.
 
+![Notes](img/Upright.jpg)
 ![Notes](img/TiltLeft.jpg)
 ![Notes](img/TiltForward.jpg)
 ![Notes](img/TiltRight.jpg)
