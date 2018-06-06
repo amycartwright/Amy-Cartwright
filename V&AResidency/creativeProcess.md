@@ -97,6 +97,30 @@ A first small scale prototype of the final design. This one currently uses servo
 ![Notes](img/TiltRight.jpg)
 
 
+Proof of structure concept
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLxZtlAMpEo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Data input
+
+[Trisha Brown - Watermotor](https://www.youtube.com/watch?v=3FALHd5Viz4)
+
+[Trisha Brown - Accumulation](https://www.youtube.com/watch?v=86I6icDKH3M)
+
+[Yvonne Rainer](https://www.youtube.com/watch?v=eP5kDDK5M5U)
+
+[Trisha Brown - Floor of the Forest](https://www.youtube.com/watch?v=9dAvQstiVqA)
+
+Yvonne Rainer - Room Service
+
+[Rite of Spring 1](https://www.youtube.com/watch?v=jF1OQkHybEQ)
+
+[Rite of Spring 2](https://www.youtube.com/watch?v=iH1t0pCchxM)
+
+[Rite of Spring 3](https://www.youtube.com/watch?v=C_7ndqgwxcM)
+
+
+
 
 
 -----------------------------------------------------
@@ -189,6 +213,30 @@ A first small scale prototype of the final design. This one currently uses servo
 [CD Rom Stepper Motor with Arduino](http://electronics-diy.com/driving-cdrom-stepper-motor-with-arduino.php)
 
 [Robotic Tentacle](https://hackaday.com/2016/10/05/two-stage-tentacle-mechanisms-part-ii-the-cable-controller/)
+
+#### Stepper Motor research
+
+[video - 3 stepper motors each with its own driver](https://www.youtube.com/watch?v=L5QuUDqhDQ4)
+
+[Adafruit documentation](https://learn.adafruit.com/all-about-stepper-motors?view=all)
+
+[Video - 3 steppers with 2 stacked shields](https://www.youtube.com/watch?v=fxJxgBiC8Mc)
+
+[Blog - 2 adafruit shields 4 motors, includes code](http://blog.workingsi.com/2011/03/method-for-controlling-4-steppers-from.html)
+
+[Video - controlling multiple stepper motors with Arduino](https://www.youtube.com/watch?v=ANm8i1Z2SkY)
+
+[Easy Driver Specs](http://www.schmalzhaus.com/EasyDriver/)
+
+[How do I run 3 stepper motor on one arduino? - some useful answers](https://www.quora.com/How-do-I-run-3-stepper-motor-on-one-Arduino-UNO-What-kind-of-driver-is-needed-for-various-Stepper-motor)
+
+[Controlling 3 stepper motors simultaneously - code](https://arduino.stackexchange.com/questions/20384/controlling-3-stepper-motors-simultaneously)
+
+[Easy Driver Page - very useful - circuit diagrams, and code for multiple uses](http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html)
+
+[AcellStepper library - allows use of multiple motors](http://www.airspayce.com/mikem/arduino/AccelStepper/)
+
+[Sparkfun easy driver setup](https://learn.sparkfun.com/tutorials/easy-driver-hook-up-guide)
 
 
 -----------------------------------------------------
@@ -390,5 +438,5 @@ Jeanne - All technology has agency when put on a stage. How do we deal with this
 
 * Guido Orgs - CONTACTED
 * Toby Beasley - DONE
-* Eric Min Hcong Castaing 
+* Eric Min Hcong Castaing - CONTACTED
 * Hanna Wrobl - CONTACTED

@@ -18,3 +18,5 @@ I want to use these three months to further my practical research into non-human
 * Does the non-human dancer need to use motion data or can the data be collected in some other way?
 * How far can our perception of agency be stretched. Does more abstraction equal less agency?
 * How important are other elements of a performance (music, setting, lighting etc..) in the quest for perforative agency for non-human performers?
+
+This work will become the second piece in a currently untitled series of research into the non-human dancers agency in the performance space. The first in the series being 'Dancers In White, Standing'.
