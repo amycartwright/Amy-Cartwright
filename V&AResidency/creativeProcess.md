@@ -238,6 +238,24 @@ Yvonne Rainer - Room Service
 
 [Sparkfun easy driver setup](https://learn.sparkfun.com/tutorials/easy-driver-hook-up-guide)
 
+#### Wire research
+
+[Piano Wire](https://www.google.co.uk/search?q=piano+wire&oq=piano+wire&aqs=chrome..69i57j0l5.2106j0j7&sourceid=chrome&ie=UTF-8)
+
+[Fishing Wire](https://www.google.co.uk/search?ei=TEg2W_2GNYb0UJKcgpAG&q=strong+clear+fishing+wire&oq=fishing+wire&gs_l=psy-ab.1.1.0i71k1l8.0.0.0.8437.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.49Iv2cFrPBo)
+
+[Flower wire](https://www.thevanillavalley.co.uk/sugarcraft-wire/HAM-WB18W.html?gclid=CjwKCAjwsdfZBRAkEiwAh2z65rNRbwNGPAEaOyFvp-QcBnrnu-papjAwijiaqH_q2MqoqsPGF2LfqRoCkZkQAvD_BwE)
+
+#### Spring research
+
+[The springs I need!](https://www.ebay.co.uk/itm/PACK-of-3-METAL-TENSION-SPRING-2-5MM-wire-145mm-Long-Loop-Ends-PACK-of-3/263653708851?hash=item3d62fc5433:g:ChgAAOSwjLVa6bNm)
+
+#### Wireless serial connection
+
+[XBee](https://learn.sparkfun.com/tutorials/exploring-xbees-and-xctu)
+
+
+
 
 -----------------------------------------------------
 
