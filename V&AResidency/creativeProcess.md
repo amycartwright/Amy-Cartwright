@@ -119,10 +119,6 @@ Yvonne Rainer - Room Service
 
 [Rite of Spring 3](https://www.youtube.com/watch?v=C_7ndqgwxcM)
 
-
-
-
-
 -----------------------------------------------------
 
 ### Reading
@@ -158,7 +154,9 @@ Yvonne Rainer - Room Service
 
 [Marc Downie Thesis - Choreographing the Extended Agent: performance graphics for dance theater] (http://openendedgroup.com/writings/downieThesis.html)
 
-[![And all the question marks started to sing](http://img.youtube.com/vi/FYR2HY553y8/0.jpg)](http://www.youtube.com/watch?v=FYR2HY553y8)
+[![And all the question marks started to sing](http://img.youtube.com/vi/FYR2HY553y8/0.jpg)
+
+[again] (http://www.youtube.com/watch?v=FYR2HY553y8)
 
 [What its like to be a robot - Ted Talk + Written speech](https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?ref=hvper.com)
 
@@ -183,6 +181,15 @@ Yvonne Rainer - Room Service
 [Merging Dance, Robotics and AI](http://this.deakin.edu.au/innovation/one-creative-team-merging-dance-robotics-and-ai)
 
 [Pinoke](http://motionlab.deakin.edu.au/portfolio/thepinokeproject/?_ga=2.52499240.1815394856.1520368039-1585838154.1520368039)
+
+[Particle Flow](https://neoanalog.io/particle-flow)
+
+[Particle Flow 2](http://www.creativeapplications.net/processing/particle-flow-kinetic-particle-study-by-neoanalog/)
+
+[Stewart Platform](https://en.wikipedia.org/wiki/Stewart_platform)
+
+[Level Platform using accelorometer](https://www.hackster.io/mtashiro/level-platform-using-accelerometer-80a343)
+
 
 [Robot made using linear actuators](https://www.youtube.com/watch?v=H14O47a2E88)
 
@@ -214,6 +221,16 @@ Yvonne Rainer - Room Service
 
 [Robotic Tentacle](https://hackaday.com/2016/10/05/two-stage-tentacle-mechanisms-part-ii-the-cable-controller/)
 
+#### Delta Algorthm research
+
+[Delta Geometry] (https://en.wikipedia.org/wiki/Stewart_platform)
+
+[Delta mechanism simulation and accuracy determination](https://hackaday.io/project/963-firepick-delta-the-open-source-microfactory/log/3588-6152014-delta-mechanism-simulation-and-accuracy-determination)
+
+[3D Printing woth Delta printers - code](https://github.com/Apress/3d-printing-w-delta-printers)
+
+
+
 #### Stepper Motor research
 
 [video - 3 stepper motors each with its own driver](https://www.youtube.com/watch?v=L5QuUDqhDQ4)
@@ -238,6 +255,16 @@ Yvonne Rainer - Room Service
 
 [Sparkfun easy driver setup](https://learn.sparkfun.com/tutorials/easy-driver-hook-up-guide)
 
+[Useful forum on drivers](http://forum.arduino.cc/index.php?topic=404181.15)
+
+[A4988 Driver Amazon](https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=A4988+Stepper+Motor+Driver+Carrier)
+
+[A4988 Driver Hobby Electronics](http://www.hobbytronics.co.uk/a4988-stepper-motor-driver)
+
+[TB6600 Driver Amazon](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Tb6600+driver)
+
+[Power supply requirements for tstepper and driver](https://www.robotshop.com/forum/power-supply-requirements-for-stepper-motor-controller-t16725)
+
 #### Wire research
 
 [Piano Wire](https://www.google.co.uk/search?q=piano+wire&oq=piano+wire&aqs=chrome..69i57j0l5.2106j0j7&sourceid=chrome&ie=UTF-8)
@@ -250,12 +277,14 @@ Yvonne Rainer - Room Service
 
 [The springs I need!](https://www.ebay.co.uk/itm/PACK-of-3-METAL-TENSION-SPRING-2-5MM-wire-145mm-Long-Loop-Ends-PACK-of-3/263653708851?hash=item3d62fc5433:g:ChgAAOSwjLVa6bNm)
 
+[Springs that I ordered](http://www.entexstocksprings.co.uk/index.php?route=product/product&product_id=1053)
+
 #### Wireless serial connection
 
 [XBee](https://learn.sparkfun.com/tutorials/exploring-xbees-and-xctu)
 
 
-#### Extra TXBRCHARIsANLixNyzazsyioO1k1aq7U8_GET6chl2uAQVx7vNyPh5TKSgLasZT63hwVEaAtNDEALw_wcB
+#### Extra 
 
 [Braided Sleeving](https://www.ebay.co.uk/itm/White-Braided-Sleeving-Cable-Harness-Sheathing-Expanding-Sleeve-Many-sizes/201109195888?var=500281831850&hash=item2ed30acc70:m:mu_fa2NWDoB_9wGLbqpTxew) 
 
