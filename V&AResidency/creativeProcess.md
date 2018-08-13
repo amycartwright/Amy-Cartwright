@@ -103,11 +103,17 @@ Proof of structure concept
 
 #### Data input
 
-[Trisha Brown - Watermotor](https://www.youtube.com/watch?v=3FALHd5Viz4)
+Used in the video:
 
-[Trisha Brown - Accumulation](https://www.youtube.com/watch?v=86I6icDKH3M)
+[Yvonne Rainer - Hand Movie 1966](https://vimeo.com/99280678)
 
-[Yvonne Rainer](https://www.youtube.com/watch?v=eP5kDDK5M5U)
+[Trisha Brown - Accumulation 1971](https://www.youtube.com/watch?v=86I6icDKH3M)
+
+[Trisha Brown - Watermotor 1978](https://www.youtube.com/watch?v=3FALHd5Viz4)
+
+[Yvonne Rainer - Trio A 1978](https://www.youtube.com/watch?v=PFK7QNn-U8I)
+
+Unused:
 
 [Trisha Brown - Floor of the Forest](https://www.youtube.com/watch?v=9dAvQstiVqA)
 
@@ -153,6 +159,8 @@ Yvonne Rainer - Room Service
 [Open Ended Group - work with choreography and code](http://openendedgroup.com/index.html)
 
 [Marc Downie Thesis - Choreographing the Extended Agent: performance graphics for dance theater] (http://openendedgroup.com/writings/downieThesis.html)
+
+[Rhizomatics] (https://research.rhizomatiks.com/en/works/)
 
 [![And all the question marks started to sing](http://img.youtube.com/vi/FYR2HY553y8/0.jpg)
 
@@ -229,8 +237,6 @@ Yvonne Rainer - Room Service
 
 [3D Printing woth Delta printers - code](https://github.com/Apress/3d-printing-w-delta-printers)
 
-
-
 #### Stepper Motor research
 
 [video - 3 stepper motors each with its own driver](https://www.youtube.com/watch?v=L5QuUDqhDQ4)
@@ -264,6 +270,8 @@ Yvonne Rainer - Room Service
 [TB6600 Driver Amazon](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Tb6600+driver)
 
 [Power supply requirements for tstepper and driver](https://www.robotshop.com/forum/power-supply-requirements-for-stepper-motor-controller-t16725)
+
+[Example Stepper Motor](https://github.com/vvzen/maca-final/blob/master/arduino/simple-x-axis/simple-x-axis.ino)
 
 #### Wire research
 
