@@ -15,9 +15,6 @@
 [Choreographic Swarm](ChoreographicSwarm/index11.md)
 
 
-[Early Choreographic Work](Choreography/index10.md)
-
-
 [In Between](InBetween/index5.md)
 
 
