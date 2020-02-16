@@ -3,3 +3,7 @@
 # Contact
 
 # Socials
+
+[Twitter](https://twitter.com/mapetiteamyy)
+
+[Instagram]()
