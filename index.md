@@ -1,5 +1,5 @@
 
-![Headshot](/img/amy.jpg =250x)
+![Headshot](/img/amy.jpg)
 
 [Dancers In White Standing](DIWS/index1.md)
 
