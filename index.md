@@ -1,5 +1,7 @@
 
-![Headshot | 20%](/img/amy.jpg)
+![Headshot|528x683,20%](/img/amy.jpg)
+
+[Magpie Dance](MagpieDance/index13.md)
 
 [Dancers In White Standing](DIWS/index1.md)
 
@@ -22,6 +24,9 @@
 [Score for Y](CCL/index9.md)
 
 
+[Publications](Publications/index13.md)
+
+
 [Computational Bits and Bobs](BitsAndBobs/index4.md)
 
 
@@ -31,4 +36,4 @@
 [Early Choreographic Work](Choreography/index8.md)
 
 
-[Contact and Socials](Contact/index12.md)
+[Contact and Socials](ContactAndSocials/index12.md)

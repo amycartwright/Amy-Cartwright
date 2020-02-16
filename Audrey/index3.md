@@ -1,5 +1,7 @@
+#Audrey
 
-# V&A / Goldsmiths Residency
+
+### V&A / Goldsmiths Residency
 
 Deliverable's
  * Giving a talk at the end of your residency showing what you did / learned
