@@ -1,4 +1,4 @@
-
+![Headshot](img/amy.jpg)
 
 [Dancers In White Standing](DIWS/index1.md)
 
