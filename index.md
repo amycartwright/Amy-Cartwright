@@ -1,5 +1,5 @@
 
-![Headshot](/img/amy.jpg)
+![Headshot | 20%](/img/amy.jpg)
 
 [Dancers In White Standing](DIWS/index1.md)
 
