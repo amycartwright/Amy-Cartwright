@@ -1,7 +1,6 @@
-
-<img style="float: left;" src="img/amy.jpg">
-
-[Dancers In White Standing](DIWS/index1.md)
+| - | - |
+|---|---|
+| ![Headshot](/img/amy.jpg) | [Dancers In White Standing](DIWS/index1.md)
 
 
 [An Invitation To Share](AnInvitationToShare/index2.md)
