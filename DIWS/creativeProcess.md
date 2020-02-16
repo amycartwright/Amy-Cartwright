@@ -2,7 +2,7 @@
 
 ## Creating the Piece
 
-Dancers In White, Standing is the first practical exploration into what has previously been a largely theoretical research path into Artificial Intelligence (AI) and dance performance. I am Interested in exploring the non-human within dance performance and so decided to focus this project into finding a way to create a dance performance that included non-human performers.
+Dancers In White, Standing is the first practical exploration into what has previously been a largely theoretical research path into Artificial Intelligence (AI) and dance performance. I am interested in exploring the non-human within dance performance and so decided to focus this project into finding a way to create a dance performance that included non-human performers.
 
 A large challenge in creating a non-human performer is the audience. Often live performances rely on the audience’s ability to relate to the human performer and much of this relationship comes from shared sensory experiences. It is therefore natural that humans find it much harder to relate to non-human objects, an experience that is only intensified when the object is also a non-anthropomorphic.
 
@@ -47,7 +47,7 @@ Useful forum thread with information about powering servos through mains/battery
 
 #### Programming a Non-Human Dancer
 
-To establish a relationship between the human dancer and the non-human dancers I needed to find a way of creating awareness. The human dancer can easily be aware of the non-human but what about the reverse? I needed to find a way for the non-human dancer to see the movements of the human dancer. Written in openFrameworks, I decided to use computer vision, more specifically blob detection and colour tracking. A Kinect checks every pixel in an image for a blob (more than one pixel) of a specific colour, in this case pink. It then finds the location of the central point of this colour blob which becomes the x and y coordinates that will be sent. The Kinect then takes these x, y coordinates and calculates the depth in a grayscale image. The darker the colour the farther away the points. This colour is converted into real world data which then becomes the z coordinate. 
+To establish a relationship between the human dancer and the non-human dancers I needed to find a way of creating awareness. The human dancer can easily be aware of the non-human but what about the reverse? I needed to find a way for the non-human dancer to see the movements of the human dancer. Written in openFrameworks, I decided to use computer vision, more specifically blob detection and colour tracking. A Kinect checks every pixel in an image for a blob (more than one pixel) of a specific colour, in this case pink. It then finds the location of the central point of this colour blob which becomes the x and y coordinates that will be sent. The Kinect then takes these x, y coordinates and calculates the depth in a grayscale image. The darker the colour the farther away the points. This colour is converted into real world data which then becomes the z coordinate.
 
 The x, y, z coordinates become the ‘vision for the non-human dancer. They are sent from openFrameworks via a serial connection across to the Arduino Mega that controls the robotic arms. The non-human dancer can now understand the exact location of a specific part of the human dancers body in space. The coordinates are sent along with a message which indicates to the Arduino what it should do with these coordinates. Once the Arduino has received the coordinates it then maps the data to the servo motor range and instructs the motors to move to that location.
 
@@ -79,7 +79,7 @@ Data path - Accelerometer --> Arduino --> Servo
 Nice example code comes with Arduino library, in the Inverse Kinematics example would need to edit goToPoint(from accelerometer)
 How do I get the data to Arduino wirelessly?
 
-![FloraSetupFront](img/FloraFrontSetup.jpg) 
+![FloraSetupFront](img/FloraFrontSetup.jpg)
 ![FloraSetupBack](img/FloraBackSetup.jpg)
 
 #### Testing
@@ -98,7 +98,7 @@ How do I get the data to Arduino wirelessly?
 
 #### Choreography and Music
 
-The arms move in a very angular and determined way and so I started my choreographic explorations by also moving in this way. Making very direct and obvious gestures. This was a useful exploration as it helped me to understand more clearly the relationship that exists between the non-human and the human dancer. Ultimately I desired something a little more nuanced. I started working with large sweeping circular movements of the upper body. Keeping the lower body firmly planted in place. When watching back rehearsal videos I felth that there was something of interest. The movements performed by the human dancer and the non human dancer where visually quite different but there was an obvious connection there. It was easy for me to see how the human dancers movements where effecting the non-humans and vice versa. 
+The arms move in a very angular and determined way and so I started my choreographic explorations by also moving in this way. Making very direct and obvious gestures. This was a useful exploration as it helped me to understand more clearly the relationship that exists between the non-human and the human dancer. Ultimately I desired something a little more nuanced. I started working with large sweeping circular movements of the upper body. Keeping the lower body firmly planted in place. When watching back rehearsal videos I felth that there was something of interest. The movements performed by the human dancer and the non human dancer where visually quite different but there was an obvious connection there. It was easy for me to see how the human dancers movements where effecting the non-humans and vice versa.
 
 The music is composed by [Jacob Glock] (https://soundcloud.com/jakob-glock). I consider this music essential to holding the piece together. It is created using recordings from nature which are mixed to give a somewhat unatural sound score. If we think about the themes and motivations behind this peice. A perfect score to use!
 
@@ -212,5 +212,3 @@ http://forum.arduino.cc/index.php?topic=44055.0
 http://embedded.fm/blog/2017/6/15/sound-of-one-arm-tapping
 
 http://forum.arduino.cc/index.php?topic=44055.0
-
-
