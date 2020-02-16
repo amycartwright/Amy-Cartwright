@@ -1,5 +1,5 @@
 
-![Headshot](/img/amy.jpg =250x) 
+![Headshot](/img/amy.jpg =250x)
 
 [Dancers In White Standing](DIWS/index1.md)
 
@@ -7,7 +7,7 @@
 [An Invitation To Share](AnInvitationToShare/index2.md)
 
 
-[Audrey](V&AResidency/index3.md)
+[Audrey](Audrey/index3.md)
 
 
 [Triangulation Situation](TriangulationSituation/index6.md)
