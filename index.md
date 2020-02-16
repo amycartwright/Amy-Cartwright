@@ -1,4 +1,5 @@
-![Headshot](img/amy.jpg)
+
+<img style="float: left;" src="img/amy.jpg">
 
 [Dancers In White Standing](DIWS/index1.md)
 
