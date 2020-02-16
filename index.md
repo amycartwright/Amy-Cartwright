@@ -1,7 +1,6 @@
 
-![Headshot|528x683,20%](/img/amy.jpg)
-
 [Magpie Dance](MagpieDance/index13.md)
+
 
 [Dancers In White Standing](DIWS/index1.md)
 
