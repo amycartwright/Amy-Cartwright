@@ -8,7 +8,7 @@
 [An Invitation To Share](AnInvitationToShare/index2.md)
 
 
-[Audrey](Audrey/index3.md)
+[Audrey (V&A/Goldsmiths Residency)](Audrey/index3.md)
 
 
 [Triangulation Situation](TriangulationSituation/index6.md)
