@@ -6,6 +6,6 @@ amy.cartwright1@gmail.com
 
 # Socials
 
-[Twitter](https://twitter.com/mapetiteamyy)
+[Twitter](https://twitter.com/amydancercoder)
 
 [Instagram](https://www.instagram.com/amydancercoder/?hl=en)
