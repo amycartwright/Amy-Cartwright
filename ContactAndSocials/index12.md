@@ -2,8 +2,10 @@
 
 # Contact
 
+amy.cartwright1@gmail.com
+
 # Socials
 
 [Twitter](https://twitter.com/mapetiteamyy)
 
-[Instagram]()
+[Instagram](https://www.instagram.com/amydancercoder/?hl=en)
